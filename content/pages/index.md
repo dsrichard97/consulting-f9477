@@ -65,10 +65,10 @@ sections:
       - type: FeaturedItem
         title: 500+
         subtitle: Report Generation
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          By harnessing our analytical skills and strategic communication, we
+          can convert your complex data into clear, actionable insights,
+          propelling your impact and performance to new heights.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
