@@ -43,7 +43,7 @@
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Working Groups",
+                    "label": "General Requests",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
