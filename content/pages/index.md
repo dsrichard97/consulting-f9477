@@ -298,7 +298,7 @@ sections:
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
     actions: []
     media:
-      title: Title of the video
+      title: ''
       url: 'https://www.youtube.com/watch?v=URQ2U6Seq_Y&ab_channel=learnxpro'
       autoplay: true
       loop: true
