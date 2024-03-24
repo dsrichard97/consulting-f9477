@@ -118,10 +118,9 @@ sections:
         type: FeaturedItem
       - title: 10%
         subtitle: Workflow Automation
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Streamline your operations and elevate productivity with our workflow
+          automation solutions, transforming complexity into efficiency.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
