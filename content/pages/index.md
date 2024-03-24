@@ -237,11 +237,16 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: We don't just deploy models. We create them.
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      As CSULB graduate students specializing in statistics, we harness a broad
+      array of interdisciplinary expertise to unlock new prospects throughout
+      your organization. Our unique vantage point allows us to capture both
+      overarching strategies and intricate details, enabling us to tackle
+      business challenges from various angles and uncover transformative
+      insights. Our approach makes a distinct difference: by merging profound
+      statistical knowledge and experience with cutting-edge technologies and
+      holistic methodologies, we empower you to drive success and forge a future
+      brimming with exceptional possibilities.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
