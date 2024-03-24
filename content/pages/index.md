@@ -299,7 +299,7 @@ sections:
     actions: []
     media:
       title: ''
-      url: ''
+      url: 'https://ezgif.com/video-to-webp/ezgif-3-fc85f22e14.mov'
       autoplay: true
       loop: true
       muted: true
