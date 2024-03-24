@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'KAGBA N. SUARAY, PHD'
+title: 'REBECCA LE, PHD'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
