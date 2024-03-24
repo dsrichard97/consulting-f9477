@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: What is a Design System
+title: STAT 544 Graduate Students
 slug: what-is-a-design-system
 date: '2023-02-23'
 excerpt: >-
