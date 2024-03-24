@@ -11,11 +11,18 @@ sections:
       type: TitleBlock
     subtitle: Section subtitle
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      At CSULB, our Statistical Consulting Group, comprised of skilled graduate
+      students, offers specialized expertise to local businesses, harnessing the
+      power of data science, statistics, and visualization. We support business
+      projects in two main categories: Exploratory Projects, which help
+      businesses assess the feasibility of ideas and develop project plans over
+      a quarter, ideal for grant proposals and preliminary planning; and
+      Research Product Projects, designed to deliver specific outcomes like
+      analyses, data models, or visualizations, spanning 2-12 months with
+      well-defined objectives. Our team, along with high caliber student
+      consultants, is ready to transform your data into actionable insights,
+      driving your business forward. Visit our portfolio for examples of our
+      transformative work.
     actions:
       - label: See open positions
         url: /
