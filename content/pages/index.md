@@ -91,7 +91,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
+      - title: 2x
         subtitle: Statistical Modeling
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
