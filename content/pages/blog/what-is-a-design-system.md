@@ -3,10 +3,7 @@ type: PostLayout
 title: STAT 544 Graduate Students
 slug: what-is-a-design-system
 date: '2023-02-23'
-excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+excerpt: All Graduate Students are under the guidance
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
