@@ -92,7 +92,7 @@ sections:
             self:
               borderRadius: x-large
       - title: 20x
-        subtitle: Research Design & Simulations
+        subtitle: Statistical Modeling
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
