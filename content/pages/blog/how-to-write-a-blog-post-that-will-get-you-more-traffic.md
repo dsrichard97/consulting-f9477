@@ -4,8 +4,10 @@ title: 'KAGBA N. SUARAY, PHD'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  My research interests include nonparametric functional estimation, extreme
-  value theory, sports analytics, and using data science and machine learning.
+  Hands-on experience in time series, data mining, Bayesian statistics,
+  predictive modeling, generalized linear models, mixed models, categorical data
+  analysis, longitudinal analysis, survival analysis, factor analysis, spatial
+  analysis, missing data imputation.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
