@@ -9,7 +9,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Section subtitle
+    subtitle: What is our support?
     text: >
       At CSULB, our Statistical Consulting Group, comprised of skilled graduate
       students, offers specialized expertise to local businesses, harnessing the
