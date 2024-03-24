@@ -1,5 +1,5 @@
 ---
-title: 'Rebecca Le, Ph.D'
+title: 'KAGBA N. SUARAY, PHD'
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
