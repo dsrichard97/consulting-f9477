@@ -93,10 +93,10 @@ sections:
               borderRadius: x-large
       - title: 2x
         subtitle: Statistical Modeling
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Unlock the full potential of your data with our statistical modeling
+          services, turning insights into strategic decisions that drive
+          success.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
