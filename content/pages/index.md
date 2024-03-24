@@ -60,7 +60,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: 'With CSULB,'
+    subtitle: 'With our statistical consulting, Insight Drives Opportunity.'
     items:
       - type: FeaturedItem
         title: 500+
