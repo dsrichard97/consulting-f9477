@@ -236,7 +236,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: We don't just deploy model. We create them.
+    subtitle: We don't just deploy models. We create them.
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
