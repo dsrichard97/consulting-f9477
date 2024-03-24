@@ -5,7 +5,7 @@ numOfPostsPerPage: 12
 enableSearch: true
 topSections:
   - title:
-      text: Featured Post
+      text: CSULB Consulting Team - Fall 2024
       color: text-dark
       type: TitleBlock
     subtitle: This is the subtitle
