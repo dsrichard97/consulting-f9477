@@ -75,7 +75,7 @@
         {
             "label": "Statistics Home",
             "altText": "Sign up",
-            "url": "/",
+            "url": "https://www.csulb.edu/mathematics-statistics",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
