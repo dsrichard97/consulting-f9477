@@ -3,10 +3,8 @@ title: 'Rebecca Le, Ph.D'
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Hands-on experience in time series, data mining, Bayesian statistics,
-  predictive modeling, generalized linear models, mixed models, categorical data
-  analysis, longitudinal analysis, survival analysis, factor analysis, spatial
-  analysis, missing data imputation.
+  My research interests include nonparametric functional estimation, extreme
+  value theory, sports analytics, and using data science and machine learning.
 featuredImage:
   url: /images/abstract-feature1.svg
   altText: Thumbnail
