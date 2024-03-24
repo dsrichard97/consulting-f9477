@@ -24,7 +24,7 @@ sections:
       driving your business forward. Visit our portfolio for examples of our
       transformative work.
     actions:
-      - label: See open positions
+      - label: Research
         url: /
         icon: arrowRight
         iconPosition: right
