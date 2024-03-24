@@ -263,7 +263,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: What sets us apart
       color: text-primary
       styles:
         self:
