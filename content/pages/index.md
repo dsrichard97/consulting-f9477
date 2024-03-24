@@ -9,9 +9,13 @@ sections:
       type: TitleBlock
     subtitle: Data Science & AI Driven
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      At CSULB, we are dedicated to delivering both impactful results and
+      practical solutions. As statisticians, we are committed to continual
+      growth and adaptation to serve our community more effectively, embodying
+      core values of integrity, innovation, and collaboration. These principles
+      guide us in providing specialized statistical consulting that upholds the
+      highest professional standards, leverages the latest advancements, and
+      fosters strong partnerships for transformative outcomes.
     actions:
       - label: Get started
         altText: ''
