@@ -299,7 +299,7 @@ sections:
     actions: []
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: 'https://www.youtube.com/watch?v=URQ2U6Seq_Y&ab_channel=learnxpro'
       autoplay: true
       loop: true
       muted: true
