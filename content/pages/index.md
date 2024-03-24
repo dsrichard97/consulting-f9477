@@ -96,7 +96,7 @@ sections:
         text: >
           Unlock the full potential of your data with our statistical modeling
           services, turning insights into strategic decisions that drive
-          success.
+          success. Leveraging AI and in-house models.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
