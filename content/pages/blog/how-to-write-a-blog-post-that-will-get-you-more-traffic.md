@@ -2,7 +2,7 @@
 type: PostLayout
 title: 'REBECCA LE, PHD'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
-date: ''
+date: '2024-03-23'
 excerpt: >-
   Hands-on experience in time series, data mining, Bayesian statistics,
   predictive modeling, generalized linear models, mixed models, categorical data
