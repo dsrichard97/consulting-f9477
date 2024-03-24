@@ -4,9 +4,9 @@ title: 'KAGBA N. SUARAY, PHD'
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  My research interests include nonparametric functional estimation, extreme
+  value theory, sports analytics, and using data science and machine learning to
+  improve education.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
