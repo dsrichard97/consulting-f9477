@@ -5,8 +5,7 @@ slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2023-01-18'
 excerpt: >-
   My research interests include nonparametric functional estimation, extreme
-  value theory, sports analytics, and using data science and machine learning to
-  improve education.
+  value theory, sports analytics, and using data science and machine learning.
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
