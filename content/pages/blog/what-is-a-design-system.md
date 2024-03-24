@@ -3,7 +3,13 @@ type: PostLayout
 title: STAT 544 Graduate Students
 slug: what-is-a-design-system
 date: '2023-02-23'
-excerpt: All Graduate Students are under the guidance
+excerpt: >-
+  Please note that all of our consultants possess Ph.D. qualifications in
+  statistics, biostatistics, or related disciplines. Projects assigned to
+  graduate student consultants are overseen by experienced statisticians or
+  faculty members. Should a project require specialized expertise, it may be
+  escalated to a member of the Statistics Department Faculty for advanced
+  consultation.
 featuredImage:
   altText: Thumbnail
   type: ImageBlock
