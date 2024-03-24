@@ -3,9 +3,10 @@ title: 'Rebecca Le, Ph.D'
 slug: five-tips-for-starting-a-startup
 date: '2023-03-18'
 excerpt: >-
-  Sit ratione eligendi et quis distinctio et maiores accusantium aut accusamus
-  facere sit repellat quidem qui alias nostrum et earum enim. Cum quis sint eos
-  dolor quas ad odit ipsum qui quia eius.
+  Hands-on experience in time series, data mining, Bayesian statistics,
+  predictive modeling, generalized linear models, mixed models, categorical data
+  analysis, longitudinal analysis, survival analysis, factor analysis, spatial
+  analysis, missing data imputation.
 featuredImage:
   url: /images/abstract-feature1.svg
   altText: Thumbnail
