@@ -299,7 +299,7 @@ sections:
     actions: []
     media:
       title: ''
-      url: 'https://www.youtube.com/watch?v=URQ2U6Seq_Y&ab_channel=learnxpro'
+      url: ''
       autoplay: true
       loop: true
       muted: true
