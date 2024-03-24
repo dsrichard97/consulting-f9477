@@ -230,7 +230,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: CSULB.
+      text: Model Driven
       color: text-dark
       styles:
         self:
