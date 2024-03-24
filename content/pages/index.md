@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: Student Consultation Program
+      label: CSULB Consultation Program
       color: text-primary
       type: Badge
     elementId: ''
