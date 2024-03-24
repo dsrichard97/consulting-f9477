@@ -228,26 +228,6 @@ sections:
       statistical knowledge and experience with cutting-edge technologies and
       holistic methodologies, we empower you to drive success and forge a future
       brimming with exceptional possibilities.
-    media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: What sets us apart
       color: text-primary
