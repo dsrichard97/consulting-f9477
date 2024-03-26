@@ -1,5 +1,5 @@
 ---
-title: Case Study 2
+title: Statistical Consulting in Collaboration with STAT 544 Graduate Class
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
