@@ -185,8 +185,7 @@ sections:
       - url: /images/az.png
         altText: Contentful logo
         type: ImageBlock
-      - url: /images/cap.jpeg
-        altText: Sanity logo
+      - altText: Sanity logo
         type: ImageBlock
       - url: /images/rangle-logo.svg
         altText: Rangle logo
