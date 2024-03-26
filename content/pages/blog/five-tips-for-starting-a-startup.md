@@ -6,7 +6,6 @@ excerpt: >-
   My research interests include nonparametric functional estimation, extreme
   value theory, sports analytics, and using data science and machine learning.
 featuredImage:
-  url: /images/start2.png
   altText: Thumbnail
   type: ImageBlock
   styles:
