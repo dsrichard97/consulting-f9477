@@ -9,7 +9,7 @@ excerpt: >-
   analysis, longitudinal analysis, survival analysis, factor analysis, spatial
   analysis, missing data imputation.
 featuredImage:
-  url: /images/pic1.png
+  url: /images/faculty.png
   altText: Thumbnail
   type: ImageBlock
   styles:
