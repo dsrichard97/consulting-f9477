@@ -168,7 +168,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Enterprises that trust us
+  - subtitle: Previous Clients & Partnerships
     images:
       - url: /images/la.jpeg
         altText: Empathy logo
