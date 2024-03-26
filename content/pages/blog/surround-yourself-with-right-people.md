@@ -1,5 +1,5 @@
 ---
-title: Statistical Consulting in Collaboration with STAT 544 Graduate Class
+title: Statistical Consulting
 slug: surround-yourself-with-right-people
 date: '2023-03-26'
 excerpt: >-
