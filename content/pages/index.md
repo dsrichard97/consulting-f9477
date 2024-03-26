@@ -170,8 +170,7 @@ sections:
         textAlign: center
   - subtitle: Previous Clients & Partnerships
     images:
-      - url: /images/la.jpeg
-        altText: Empathy logo
+      - altText: Empathy logo
         type: ImageBlock
       - url: /images/va.jpeg
         altText: Wellster logo
