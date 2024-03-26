@@ -3,11 +3,7 @@ type: PostLayout
 title: Statistics Faculty
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-03-23'
-excerpt: >-
-  Hands-on experience in time series, data mining, Bayesian statistics,
-  predictive modeling, generalized linear models, mixed models, categorical data
-  analysis, longitudinal analysis, survival analysis, factor analysis, spatial
-  analysis, missing data imputation.
+excerpt: Click on link for more information about faculty.
 featuredImage:
   url: /images/faculty.png
   altText: Thumbnail
