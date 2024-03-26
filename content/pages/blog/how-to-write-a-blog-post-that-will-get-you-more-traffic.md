@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: 'REBECCA LE, PHD'
+title: STAT 544 Graduate Students & Faculty
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-03-23'
 excerpt: >-
