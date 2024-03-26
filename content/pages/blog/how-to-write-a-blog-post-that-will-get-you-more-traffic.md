@@ -3,7 +3,12 @@ type: PostLayout
 title: Statistics Faculty
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-03-23'
-excerpt: Click on link for more information about faculty.
+excerpt: >-
+  The Department of Mathematics and Statistics at California State University
+  Long Beach (CSULB) has a diverse faculty involved in a broad spectrum of
+  research areas across mathematics, statistics, and mathematics education. The
+  faculty members are committed to excellence in teaching, research, and
+  industry.
 featuredImage:
   url: /images/faculty.png
   altText: Thumbnail
