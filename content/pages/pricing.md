@@ -11,7 +11,6 @@ sections:
         self:
           textAlign: center
     posts:
-      - content/pages/blog/five-tips-for-starting-a-startup.md
       - >-
         content/pages/blog/how-to-write-a-blog-post-that-will-get-you-more-traffic.md
     showThumbnail: true
