@@ -170,7 +170,7 @@ sections:
         textAlign: center
   - subtitle: Enterprises that trust us
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/la.jpeg
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
