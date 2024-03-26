@@ -1,5 +1,5 @@
 ---
-title: Case Study 3
+title: ''
 slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: >-
