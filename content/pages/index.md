@@ -98,7 +98,7 @@ sections:
           services, turning insights into strategic decisions that drive
           success. Leveraging AI and in-house models.
         image:
-          url: /images/icon2.svg
+          url: /images/st.jpeg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
