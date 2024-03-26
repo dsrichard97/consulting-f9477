@@ -122,7 +122,7 @@ sections:
           Streamline your operations and elevate productivity with our workflow
           automation solutions, transforming complexity into efficiency.
         image:
-          url: /images/icon3.svg
+          url: /images/wf.jpeg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
