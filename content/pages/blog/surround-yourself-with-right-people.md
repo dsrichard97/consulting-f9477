@@ -37,7 +37,7 @@ bottomSections:
     items:
       - type: FeaturedItem
         title: Evaluating the Current State
-        tagline: This is the tagline
+        tagline: Case Study & Strategy Deployment
         subtitle: >-
           Leverage quantitative analysis to thoroughly understand the current
           operational environment and identify areas for improvement.
