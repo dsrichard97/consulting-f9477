@@ -28,7 +28,7 @@ bottomSections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Previous Consulting Projects
+      text: Consulting Methodology
       color: text-primary
       styles:
         self:
