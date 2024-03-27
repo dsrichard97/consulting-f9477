@@ -84,7 +84,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Measuring and Automating
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
