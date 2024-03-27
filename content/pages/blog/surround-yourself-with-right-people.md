@@ -113,16 +113,14 @@ bottomSections:
           Execute the strategy with an ongoing focus on measuring results and
           refining tactics based on real-time data and statistical analysis
         text: >+
-          *   Develop a robust framework for tracking progress against goals
-          using key performance indicators (KPIs) that are directly linked to
-          the strategic objectives.
+          *   Automating workflows
 
 
-          *   Implement automated systems and technologies to continuously
-          collect and analyze performance data.
+          *   Change or modifying existing database deployments
 
 
-          *   Adopt an iterative approach to best improve your solution.
+          *   Adopt an iterative approach to best improve your solution by using
+          AI/ML
 
         image:
           type: ImageBlock
