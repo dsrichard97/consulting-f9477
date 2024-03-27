@@ -28,10 +28,7 @@ bottomSections:
   - items:
       - title: Donations
         tagline: ''
-        subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+        subtitle: For donations click here.
         image:
           url: /images/Slb.png
           altText: Company logo
