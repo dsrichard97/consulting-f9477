@@ -158,6 +158,4 @@ bottomSections:
 ---
 Faculty is managing student performance and working with vendors and partners to best provide solutions.
 
-Graduate Students focus:
-
-The methodology of statistical consulting: guidelines for client consultant communications, presentations to clients, basics of writing final technical reports, thorough case studies involving advanced statistical analysis, invited client presentations, real-life projects, group discussions, written and oral statistical reports by students.
+Graduate students focus: The methodology of statistical consulting: guidelines for client consultant communications, presentations to clients, basics of writing final technical reports, thorough case studies involving advanced statistical analysis, invited client presentations, real-life projects, group discussions, written and oral statistical reports by students.
