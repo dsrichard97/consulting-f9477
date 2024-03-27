@@ -119,7 +119,7 @@ sections:
       driving your business forward. Visit our portfolio for examples of our
       transformative work.
     actions:
-      - label: Mathematics Colloquium
+      - label: Research
         url: /
         icon: arrowRight
         iconPosition: right
