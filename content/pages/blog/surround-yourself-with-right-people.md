@@ -42,8 +42,8 @@ bottomSections:
           Leverage quantitative analysis to thoroughly understand the current
           operational environment and identify areas for improvement.
         text: >+
-          *   Collect and analyze relevant data on operational performance,
-          market trends, customer behavior, and competitor strategies.
+          *   Collect and analyze relevant data on operational performance and
+          applying current market trends.
 
 
           *   Utilize statistical tools and models to identify patterns,
@@ -51,8 +51,7 @@ bottomSections:
 
 
           *   Perform a gap analysis to compare current performance against
-          industry benchmarks or best practices, focusing on quantifiable
-          metrics.
+          industry benchmarks.
 
         image:
           type: ImageBlock
