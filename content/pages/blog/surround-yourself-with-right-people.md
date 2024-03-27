@@ -38,7 +38,9 @@ bottomSections:
       - type: FeaturedItem
         title: Evaluating the Current State
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Leverage quantitative analysis to thoroughly understand the current
+          operational environment and identify areas for improvement.
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
