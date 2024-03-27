@@ -63,7 +63,7 @@ bottomSections:
             flexDirection: col
       - type: FeaturedItem
         title: Strategic Formulation Based on KPIs
-        tagline: This is the tagline
+        tagline: Realistic Target Metrics
         subtitle: >-
           Develop a strategic plan grounded in data-derived insights,
           prioritizing initiatives that offer the most significant impact based
