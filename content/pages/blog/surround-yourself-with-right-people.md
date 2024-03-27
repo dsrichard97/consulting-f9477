@@ -90,7 +90,7 @@ bottomSections:
             flexDirection: col
       - type: FeaturedItem
         title: Measuring and Automating
-        tagline: This is the tagline
+        tagline: Automation & Improvements
         subtitle: >-
           Execute the strategy with an ongoing focus on measuring results and
           refining tactics based on real-time data and statistical analysis
