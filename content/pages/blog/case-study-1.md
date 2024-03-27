@@ -26,7 +26,7 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: Donations
+      - title: ''
         tagline: ''
         subtitle: ''
         image:
