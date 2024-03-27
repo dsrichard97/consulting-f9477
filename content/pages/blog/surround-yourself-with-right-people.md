@@ -91,7 +91,9 @@ bottomSections:
       - type: FeaturedItem
         title: Measuring and Automating
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Execute the strategy with an ongoing focus on measuring results and
+          refining tactics based on real-time data and statistical analysis
         text: |
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
