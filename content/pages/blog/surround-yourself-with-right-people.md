@@ -64,7 +64,10 @@ bottomSections:
       - type: FeaturedItem
         title: Strategic Formulation Based on KPIs
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: >-
+          Develop a strategic plan grounded in data-derived insights,
+          prioritizing initiatives that offer the most significant impact based
+          on empirical evidence.
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
