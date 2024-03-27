@@ -120,7 +120,7 @@ sections:
       transformative work.
     actions:
       - label: Research
-        url: /
+        url: 'https://www.csulb.edu/mathematics-statistics/faculty-research'
         icon: arrowRight
         iconPosition: right
         style: primary
