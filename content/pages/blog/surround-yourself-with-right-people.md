@@ -90,7 +90,7 @@ bottomSections:
 
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/met2.avif
           altText: Placeholder image
           styles:
             self:
