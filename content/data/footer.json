@@ -42,7 +42,7 @@
             {
                 "label": "Data Science Affiliation",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.csulb.edu/mathematics-statistics/data-science-learning-community",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
