@@ -151,7 +151,7 @@ sections:
       url: /images/abstract-background.svg
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/t3.jpeg
       altText: Image alt text placeholder
       elementId: ''
       styles:
