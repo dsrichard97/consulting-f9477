@@ -88,7 +88,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
+        title: Case Study 3
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
