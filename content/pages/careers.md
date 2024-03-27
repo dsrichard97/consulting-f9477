@@ -40,7 +40,7 @@ sections:
     subtitle: Featured items section subtitle
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: Case Study 1
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
