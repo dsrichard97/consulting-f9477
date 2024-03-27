@@ -1,7 +1,7 @@
 ---
 title: Statistical Consulting
 slug: surround-yourself-with-right-people
-date: '2023-03-26'
+date: '2024-03-26'
 excerpt: >-
   Facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper.
   Donec sed facilisis nibh.
