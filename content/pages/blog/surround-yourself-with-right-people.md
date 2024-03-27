@@ -41,8 +41,19 @@ bottomSections:
         subtitle: >-
           Leverage quantitative analysis to thoroughly understand the current
           operational environment and identify areas for improvement.
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >+
+          *   Collect and analyze relevant data on operational performance,
+          market trends, customer behavior, and competitor strategies.
+
+
+          *   Utilize statistical tools and models to identify patterns,
+          inefficiencies, and potential growth areas.
+
+
+          *   Perform a gap analysis to compare current performance against
+          industry benchmarks or best practices, focusing on quantifiable
+          metrics.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
