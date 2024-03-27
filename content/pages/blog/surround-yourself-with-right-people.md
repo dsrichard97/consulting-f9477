@@ -33,7 +33,7 @@ bottomSections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: Consulting Process
     items:
       - type: FeaturedItem
         title: Evaluating the Current State
