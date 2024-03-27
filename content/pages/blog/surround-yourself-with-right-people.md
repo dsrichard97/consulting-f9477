@@ -60,7 +60,7 @@ bottomSections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Strategic Formulation Based on Insights
+        title: Strategic Formulation Based on KPIs
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
