@@ -28,7 +28,7 @@ bottomSections:
   - items:
       - title: Donations
         tagline: ''
-        subtitle: For donations click here.
+        subtitle: ''
         image:
           url: /images/Slb.png
           altText: Company logo
