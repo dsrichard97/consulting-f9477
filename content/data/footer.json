@@ -50,7 +50,7 @@
             },
             {
                 "label": "Dept. News",
-                "url": "/blog",
+                "url": "https://www.csulb.edu/mathematics-statistics/department-news",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
