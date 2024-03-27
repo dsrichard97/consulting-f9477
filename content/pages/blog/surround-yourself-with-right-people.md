@@ -154,10 +154,6 @@ bottomSections:
       subtitle:
         textAlign: center
 ---
-**Our faculty oversees student performance, collaborating closely with vendors and partners to deliver optimal solutions.**
-
-***
-
-\*\*\*\*![](/images/t1.jpeg)
+**Our faculty oversees student performance, collaborating closely with vendors and partners to deliver optimal solutions.**![](/images/t1.jpeg)
 
 Graduate Student Focus: We emphasize the methodology of statistical consulting, which encompasses strategies for effective communication between clients and consultants, conducting client presentations, and mastering the essentials of drafting final technical reports.
