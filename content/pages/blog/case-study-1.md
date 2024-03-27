@@ -87,15 +87,34 @@ styles:
     flexDirection: col
 type: PostLayout
 ---
+**CONSULTING RATES**
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+The Center provides three payment options for our services: hourly rates, grant preparation support, and a subscription model. Please note that certain payment options may only be available to clients with specific affiliations.
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+We offer a complimentary initial consultation for all new clients. This one-hour meeting is designed to assess the statistical requirements of your project in terms of time, type,  and scope. Following this discussion, the client and our statistician will outline a detailed statistical plan and scope of work.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Subsequent to the initial meeting and upon agreement on the Scope of Work, we will prepare a Sales and Service Agreement for signature by both parties (Client & CSC). An advance payment of 25% of the total fee is required to commence work or support. The balance (75%) will be billed according to agreement schedule. For projects estimated to require less than 10 hours, we will request full payment upfront after project initiation(2 weeks from start date in agreement).
 
-![](/images/img-placeholder.svg)
+**PAYMENT METHODS**
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+****
+
+|                                         | HOURLY RATE | GRANT PREPARTION SUPPORT | SUBSCRIPTION |
+| --------------------------------------- | ----------- | ------------------------ | ------------ |
+| CSULB AFFILIATE                         | $95         | x                        | x            |
+| NON-CSULB AFFILIATE: FOR NON-PROFT ORG. | $120        | x                        |              |
+| NON- CSULB AFFILIATE: FOR-PROFIT ORG.   | $140        |                          |              |
+
+Additional information on each payment method is provided below.
+
+**Consulting Expert for Strategy and Transformation**
+
+**Grant Preparation Support Model at CSULB:**
+Our objective is to foster a cooperative atmosphere conducive to successful grant submissions by offering grant preparation support at no cost. We encourage principal investigators, for grant proposals aided by CSULB staff in their preparation and composition, to include our statistical analysts as part of the team, contributing a fair share of effort as deemed appropriate.
+
+**Subscription Model:**
+Departments or researchers in need of statistical support can opt into a subscription, effectively securing a dedicated portion of our CSULB staff's time. This model requires a commitment to support a portion of the staff's effort for a minimum duration of six months, with the smallest allowable effort set at 20%.
+
+**Billable Rates:**
+Our billable hours encompass all project-related work that is charged to a client as per the agreed rate. The tasks performed by statistical consultants at CSULB are comprehensive, including but not limited to: conducting preliminary reviews, engaging in requisite research to grasp the scientific or technological foundations, selecting the most suitable methodology, executing the analysis programming, examining the results, and communicating findings to the client. Our consultants' role transcends simple data entry, offering a depth of expertise that ensures the highest quality of statistical collaboration. For further insight into the significant role played by statistical consultants, we recommend exploring articles from recognized statistical associations.
+
