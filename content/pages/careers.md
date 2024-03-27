@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Featured posts
+      text: Graduate Student Driven
       color: text-dark
       styles:
         self:
