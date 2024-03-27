@@ -79,18 +79,14 @@ bottomSections:
           prioritizing initiatives that offer the most significant impact based
           on empirical evidence.
         text: >+
-          *   Use predictive analytics to forecast potential outcomes of
-          different strategic choices and select the path with the highest
-          probability of success.
+          *   Use predictive analytics to forecast potential outcomes and
+          selecting path with highest probability of success.
 
 
-          *   Establish SMART goals that are directly informed by the data
-          analysis, ensuring each goal is measurable and time-bound.
+          *   Establish measurable and time-bound goals.
 
 
-          *   Incorporate risk analysis models to assess and mitigate potential
-          challenges or barriers to the strategic plan, quantifying risks where
-          possible.
+          *   Quantifying risks.
 
         image:
           type: ImageBlock
