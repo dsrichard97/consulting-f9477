@@ -112,8 +112,18 @@ bottomSections:
         subtitle: >-
           Execute the strategy with an ongoing focus on measuring results and
           refining tactics based on real-time data and statistical analysis
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+        text: >+
+          *   Develop a robust framework for tracking progress against goals
+          using key performance indicators (KPIs) that are directly linked to
+          the strategic objectives.
+
+
+          *   Implement automated systems and technologies to continuously
+          collect and analyze performance data.
+
+
+          *   Adopt an iterative approach to best improve your solution.
+
         image:
           type: ImageBlock
           url: /images/abstract-feature3.svg
