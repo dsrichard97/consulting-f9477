@@ -23,7 +23,7 @@
         {
             "label": "Consulting With Us",
             "altText": "Blog",
-            "url": "/blog/surround-yourself-with-right-people/",
+            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/blog/surround-yourself-with-right-people/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -32,7 +32,7 @@
         {
             "label": "Case Studies",
             "altText": "Careers page",
-            "url": "/careers",
+            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/careers/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
