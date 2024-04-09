@@ -1,34 +1,36 @@
 {
     "logo": {
-        "url": "/images/logo-dark.svg",
+        "url": "/images/m1.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
-                "margin": ["mr-3"]
+                "margin": [
+                    "mr-3"
+                ]
             }
         },
         "type": "ImageBlock"
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
-            "url": "/pricing",
+            "label": "About Us",
+            "url": "https://www.csulb.edu/mathematics-statistics/department-directory",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "Consulting With Us",
             "altText": "Blog",
-            "url": "/blog",
+            "url": "/blog/surround-yourself-with-right-people/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "Case Studies",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,11 +39,11 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
+            "label": "Request a Consultation",
             "altText": "Dropdown",
             "links": [
                 {
-                    "label": "Dropdown item",
+                    "label": "General Requests",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -49,15 +51,15 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
-                    "url": "/",
+                    "label": "Consulting Rates",
+                    "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/blog/case-study-1/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
                     "type": "Link"
                 },
                 {
-                    "label": "Dropdown item",
+                    "label": "Alumni",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
@@ -71,20 +73,12 @@
     ],
     "secondaryLinks": [
         {
-            "label": "Sign up",
-            "altText": "Sign up",
-            "url": "/",
+            "label": "Statistics Dept. Home",
+            "altText": "CSULB Statistics",
+            "url": "https://www.csulb.edu/mathematics-statistics",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Button"
-        },
-        {
-            "label": "Log in",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "primary",
             "type": "Button"
         }
     ],

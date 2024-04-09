@@ -1,12 +1,12 @@
 {
     "logo": {
-        "url": "/images/logo-white.svg",
+        "url": "/images/low.png",
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "© 2024\n\nStatistical Consulting\n\n[Dept. Of Statistics](https://www.csulb.edu/mathematics-statistics)\n\n[California State University Long Beach](https://www.csulb.edu/)\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "CONSULTATION",
         "links": [
             {
                 "label": "Features",
@@ -19,15 +19,7 @@
             },
             {
                 "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/blog/case-study-1/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,20 +29,20 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Department",
         "links": [
             {
-                "label": "Careers",
+                "label": "Data Science Affiliation",
                 "altText": "careers page",
-                "url": "/careers",
+                "url": "https://www.csulb.edu/mathematics-statistics/data-science-learning-community",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "Dept. News",
+                "url": "https://www.csulb.edu/mathematics-statistics/department-news",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -67,12 +59,6 @@
             "type": "Social"
         },
         {
-            "altText": "Twitter link",
-            "url": "https://twitter.com/netlify",
-            "icon": "twitter",
-            "type": "Social"
-        },
-        {
             "altText": "LinkedIn link",
             "url": "https://www.linkedin.com/company/netlify",
             "icon": "linkedin",
@@ -85,25 +71,8 @@
             "type": "Social"
         }
     ],
-    "legalLinks": [
-        {
-            "label": "Terms",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Privacy",
-            "url": "/",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        }
-    ],
-    "copyrightText": "Powered by [Netlify Create](https://www.netlify.com/platform/create/)",
+    "legalLinks": [],
+    "copyrightText": "",
     "colors": "bg-dark-fg-light",
     "type": "Footer"
 }
