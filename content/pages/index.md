@@ -33,7 +33,7 @@ sections:
         elementId: ''
         type: Link
     media:
-      url: /images/t1 Medium.jpeg
+      url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
