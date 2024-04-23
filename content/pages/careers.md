@@ -23,13 +23,7 @@ sections:
       consultants, is ready to transform your data into actionable insights,
       driving your business forward. Visit our portfolio for examples of our
       transformative work.
-    actions:
-      - label: Research
-        url: 'https://www.csulb.edu/mathematics-statistics/faculty-research'
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        type: Button
+    actions: []
     colors: bg-neutral-fg-dark
     styles:
       self:
