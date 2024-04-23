@@ -207,33 +207,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Model Driven
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: We don't just deploy models. We create them.
-    text: >
-      Our approach makes a distinct difference: by merging profound statistical
-      knowledge and experience with cutting-edge technologies and holistic
-      methodologies, we empower you to drive success.
-    badge:
-      label: What sets us apart
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: CarouselSection
     title: null
     subtitle: What our clients say about us
