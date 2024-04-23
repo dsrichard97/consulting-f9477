@@ -2,7 +2,7 @@
 type: PostLayout
 title: STAT 544 Graduate Students & Faculty
 slug: what-is-a-design-system
-date: '2023-02-23'
+date: '2024-04-22'
 excerpt: >-
   Please note that all of our consultants possess Ph.D. qualifications in
   statistics, biostatistics, or related disciplines. Projects assigned to
