@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Faizah Chan",
-    "role": "Co-founder & CEO",
+    "name": "Jon Braswell",
+    "role": "Student Attrition at CSULB: Interpretable Classification with Imbalanced Datasets",
     "image": {
-        "url": "/images/avatar2.svg",
+        "url": "/images/JB.png",
         "altText": "Faizah Chan",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "[CLICK HERE FOR LINK](https://www.proquest.com/docview/2600290656?parentSessionId=8DR%2FWmIJC31wFHwPf5TT%2BGuYHw7S9QDg%2FqFKom3SbfM%3D\\&sourcetype=Dissertations%20&%20Theses)\n"
 }

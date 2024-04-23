@@ -1,6 +1,5 @@
 {
     "logo": {
-        "url": "/images/m1.png",
         "altText": "Logo dark",
         "styles": {
             "self": {
@@ -14,7 +13,7 @@
     "primaryLinks": [
         {
             "label": "About Us",
-            "url": "https://www.csulb.edu/mathematics-statistics/department-directory",
+            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/careers/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -30,9 +29,9 @@
             "type": "Link"
         },
         {
-            "label": "Case Studies",
+            "label": "Research",
             "altText": "Careers page",
-            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/careers/",
+            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/blog/what-is-a-design-system/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -44,7 +43,7 @@
             "links": [
                 {
                     "label": "General Requests",
-                    "url": "/",
+                    "url": "https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing",
                     "icon": "arrowRight",
                     "iconPosition": "right",
                     "style": "secondary",
@@ -83,6 +82,13 @@
         }
     ],
     "variant": "logo-left-primary-nav-centered",
-    "colors": "bg-light-fg-dark",
-    "type": "Header"
+    "colors": "bg-dark-fg-light",
+    "type": "Header",
+    "styles": {
+        "self": {
+            "padding": [
+                "pt-1"
+            ]
+        }
+    }
 }

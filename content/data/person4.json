@@ -1,9 +1,9 @@
 {
     "type": "Person",
-    "name": "Nina Mercado",
-    "role": "Co-founder & CEO",
+    "name": "Kristen Miller",
+    "role": "Analysis of General Education Mathematics and Quantitative Reasoning Courses at California State University, Long Beach",
     "image": {
-        "url": "/images/avatar4.svg",
+        "url": "/images/KM.png",
         "altText": "Nina Mercado",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "[CLICK HERE FOR LINK](https://www.proquest.com/docview/2472132382?accountid=10351\\&sourcetype=Dissertations%20&%20Theses)\n"
 }

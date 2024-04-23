@@ -1,9 +1,9 @@
 {
     "type": "Person",
     "name": "Drake Garza",
-    "role": "Job title",
+    "role": "Predicting Four-Year Graduation: A Sequential Modeling Approach",
     "image": {
-        "url": "/images/avatar5.svg",
+        "url": "/images/ROC.png",
         "altText": "Drake Garza",
         "styles": {
             "self": {
@@ -33,5 +33,5 @@
             "justifyContent": "center"
         }
     },
-    "bio": "Lorem Ipsum is simply dummy text of the printing and typesetting industry.\n"
+    "bio": "[CLICK HERE FOR LINK](https://www.proquest.com/docview/2133709110?accountid=10351\\&sourcetype=Dissertations%20&%20Theses)\n"
 }
