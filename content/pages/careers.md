@@ -11,18 +11,18 @@ sections:
       type: TitleBlock
     subtitle: What is our support?
     text: >
-      At CSULB, our Statistical Consulting Group, comprised of skilled graduate
-      students, offers specialized expertise to local businesses, harnessing the
-      power of data science, statistics, and visualization. We support business
-      projects in two main categories: Exploratory Projects, which help
-      businesses assess the feasibility of ideas and develop project plans over
-      a quarter, ideal for grant proposals and preliminary planning; and
-      Research Product Projects, designed to deliver specific outcomes like
-      analyses, data models, or visualizations, spanning 2-12 months with
-      well-defined objectives. Our team, along with high caliber student
-      consultants, is ready to transform your data into actionable insights,
-      driving your business forward. Visit our portfolio for examples of our
-      transformative work.
+      At CSULB, our Statistical Consulting Group is made up of highly skilled
+      graduate students who provide specialized expertise in data science,
+      statistics, and visualization to local businesses. We offer support for
+      business projects in two primary categories: Exploratory Projects, which
+      assist businesses in assessing the feasibility of ideas and developing
+      project plans over a quarter—ideal for grant proposals and preliminary
+      planning; and Research Product Projects, aimed at delivering specific
+      outcomes such as analyses, data models, or visualizations, with durations
+      ranging from 2-12 months and clearly defined goals. Our team, including
+      top-tier student consultants, is prepared to turn your data into
+      actionable insights that propel your business forward. Check out our
+      **research.**
     actions: []
     colors: bg-neutral-fg-dark
     styles:
