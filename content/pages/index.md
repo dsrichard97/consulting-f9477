@@ -279,10 +279,7 @@ sections:
           motorcycle ride in the rain!"
         tagline: Testimonial 3
         subtitle: Data Day Attendee
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: ''
         image:
           altText: Maria Walters
           styles:
