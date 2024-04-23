@@ -273,7 +273,10 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: >-
+          "I attended the Data Day event yesterday and it was a powerful event
+          that illustrated how this field is growing and needed.  Well worth a
+          motorcycle ride in the rain!"
         tagline: Testimonial 3
         subtitle: Data Day Attendee
         text: >-
