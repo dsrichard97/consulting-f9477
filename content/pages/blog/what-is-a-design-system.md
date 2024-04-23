@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: STAT 544 Graduate Students & Faculty
+title: Graduate Research
 slug: what-is-a-design-system
 date: '2024-04-22'
 excerpt: >-
