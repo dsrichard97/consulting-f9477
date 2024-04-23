@@ -7,7 +7,7 @@ sections:
       text: Unleash your full potential
       color: text-dark
       type: TitleBlock
-    subtitle: Data Science & AI Driven
+    subtitle: Data Science & Research Driven
     text: >
       At CSULB, we are dedicated to delivering both impactful results and
       practical solutions. As statisticians, we are committed to continual
