@@ -218,8 +218,7 @@ sections:
     text: >
       Our approach makes a distinct difference: by merging profound statistical
       knowledge and experience with cutting-edge technologies and holistic
-      methodologies, we empower you to drive success and forge a future brimming
-      with exceptional possibilities.
+      methodologies, we empower you to drive success.
     badge:
       label: What sets us apart
       color: text-primary
