@@ -142,7 +142,8 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
