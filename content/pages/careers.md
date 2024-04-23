@@ -24,7 +24,7 @@ sections:
       actionable insights that propel your business forward. Check out our
       **research.**
     actions: []
-    colors: bg-neutral-fg-dark
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
