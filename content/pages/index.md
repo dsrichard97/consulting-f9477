@@ -247,7 +247,7 @@ sections:
           "Design is a plan for arranging elements in such a way as best to
           accomplish a particular purpose."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: 'Andres Gonzalez, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
