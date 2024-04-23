@@ -274,8 +274,13 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          It was a wonderful class full of group work and challenging
+          assignments that exposed all of us to the realities of cleaning data,
+          EDA, working with client expectations and translating complex ideas
+          into insights they might be able to apply to their organizations.
+          There is nothing easy for me in the math of statistics, but your class
+          illustrated just how powerful it can translate to meaningful solutions
+          to human problems.
         tagline: Testimonial 3
         subtitle: Data Day Attendee
         text: >-
