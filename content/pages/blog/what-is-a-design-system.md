@@ -90,4 +90,4 @@ styles:
   self:
     flexDirection: row
 ---
-Please note that all of our consultants possess Ph.D. qualifications in statistics, biostatistics, or related disciplines. Projects assigned to graduate student consultants are overseen by experienced statisticians or faculty members. Should a project require specialized expertise, it may be escalated to a member of the Statistics Department Faculty for advanced consultation.
+All our Research previous conducted and undertaken by the statistics department.
