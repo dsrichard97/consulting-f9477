@@ -7,16 +7,17 @@ sections:
       text: Unleash your full potential
       color: text-dark
       type: TitleBlock
-    subtitle: Data Science & AI Driven
+    subtitle: Data Science & Research Driven
     text: >
-      At CSULB, we are dedicated to delivering both impactful results and
-      practical solutions. As statisticians, we are committed to continual
-      growth and adaptation to serve our community more effectively, embodying
-      core values of integrity, innovation, and collaboration.
+      At CSULB, our commitment is to deliver impactful results and practical
+      solutions. As statisticians, we dedicate ourselves to continuous growth
+      and adaptation to better serve our community. We uphold core values of
+      integrity, innovation, and collaboration.
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -141,7 +142,8 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -207,34 +209,6 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
-  - title:
-      text: Model Driven
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
-      type: TitleBlock
-    subtitle: We don't just deploy models. We create them.
-    text: >
-      Our approach makes a distinct difference: by merging profound statistical
-      knowledge and experience with cutting-edge technologies and holistic
-      methodologies, we empower you to drive success and forge a future brimming
-      with exceptional possibilities.
-    badge:
-      label: What sets us apart
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        flexDirection: col
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: GenericSection
   - type: CarouselSection
     title: null
     subtitle: What our clients say about us
@@ -317,96 +291,6 @@ sections:
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using
-          Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
