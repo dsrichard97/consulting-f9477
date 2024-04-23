@@ -9,10 +9,10 @@ sections:
       type: TitleBlock
     subtitle: Data Science & Research Driven
     text: >
-      At CSULB, we are dedicated to delivering both impactful results and
-      practical solutions. As statisticians, we are committed to continual
-      growth and adaptation to serve our community more effectively, embodying
-      core values of integrity, innovation, and collaboration.
+      At CSULB, our commitment is to deliver impactful results and practical
+      solutions. As statisticians, we dedicate ourselves to continuous growth
+      and adaptation to better serve our community. We uphold core values of
+      integrity, innovation, and collaboration.
     actions:
       - label: Get started
         altText: ''
