@@ -273,14 +273,7 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: >-
-          It was a wonderful class full of group work and challenging
-          assignments that exposed all of us to the realities of cleaning data,
-          EDA, working with client expectations and translating complex ideas
-          into insights they might be able to apply to their organizations.
-          There is nothing easy for me in the math of statistics, but your class
-          illustrated just how powerful it can translate to meaningful solutions
-          to human problems.
+      - title: ''
         tagline: Testimonial 3
         subtitle: Data Day Attendee
         text: >-
