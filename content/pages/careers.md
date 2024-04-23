@@ -47,7 +47,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/abstract-background.svg
+      url: /images/Slb.png
     media:
       type: ImageBlock
       url: /images/t3.jpeg
