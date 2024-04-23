@@ -53,7 +53,7 @@ bottomSections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: Meet the team
+      text: PREVIOUS RESEARCH
       color: text-dark
       styles:
         self:
