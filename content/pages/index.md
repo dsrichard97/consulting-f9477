@@ -2,109 +2,32 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Unleash your full potential
-      color: text-dark
-      type: TitleBlock
-    subtitle: Data Science & Research Driven
-    text: >
-      At CSULB, our commitment is to deliver impactful results and practical
-      solutions. As statisticians, we dedicate ourselves to continuous growth
-      and adaptation to better serve our community. We uphold core values of
-      integrity, innovation, and collaboration.
-    actions:
-      - label: Get started
-        altText: ''
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: About the team
-        altText: ''
-        url: 'https://consulting-f9477.stackbit.app/careers'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: CSULB Consultation Program
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
-      color: text-dark
+      type: TitleBlock
+      text: Projects
+      color: text-primary
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: 'With our statistical consulting, Insight Drives Opportunity.'
+    subtitle: ''
     items:
       - type: FeaturedItem
-        title: 500+
-        subtitle: Report Generation
+        title: Fertility Rate Project
+        tagline: 'Sean, Cindy, Kent'
+        subtitle: ''
         text: >
-          By harnessing our analytical skills and strategic communication, we
-          can convert your complex data into clear, actionable insights,
-          propelling your impact and performance to new heights.
-        actions: []
-        elementId: null
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: row
-            justifyContent: center
-            textAlign: left
+          [Click here for
+          powerpoint.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EX_YIaD2gfVGgvXpmdeoegsBzbPzB66TuF3KlVPx1fMlog?e=HRi0IA)
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
-          url: /images/d1.jpeg
+          url: /images/fert.jpeg
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
-      - title: 2x
-        subtitle: Statistical Modeling
-        text: >
-          Unlock the full potential of your data with our statistical modeling
-          services, turning insights into strategic decisions that drive
-          success. Leveraging AI and in-house models.
-        image:
-          url: /images/st.jpeg
-          altText: Featured icon two
-          elementId: ''
-          type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -113,22 +36,22 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-            textAlign: left
-            justifyContent: center
-        type: FeaturedItem
-      - title: 10%
-        subtitle: Workflow Automation
-        text: >
-          Streamline your operations and elevate productivity with our workflow
-          automation solutions, transforming complexity into efficiency.
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item Two
+        tagline: 'Andres, Gerry, Phanny'
+        subtitle: This is the item subtitle
+        text: |
+          Follow the tutorial to build your first awesome Stackbit site.
         image:
-          url: /images/wf.jpeg
-          altText: Featured icon three
-          elementId: ''
           type: ImageBlock
+          url: /images/abstract-feature2.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -137,68 +60,44 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: row
-        type: FeaturedItem
-    actions:
-      - label: Get started
-        altText: ''
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
-    badge:
-      label: 'California State University Long Beach '
-      color: text-primary
-      styles:
-        self:
-          textAlign: center
-      type: Badge
-    elementId: ''
+            flexDirection: col
+      - type: FeaturedItem
+        title: Feature Item Three
+        tagline: This is the tagline
+        subtitle: This is the item subtitle
+        text: |
+          Learn from the tutorial and build your first awesome Stackbit site.
+        image:
+          type: ImageBlock
+          url: /images/abstract-feature3.svg
+          altText: Placeholder image
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-light-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: col
+    actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
           - pt-16
-          - pl-16
-          - pr-16
+          - pl-8
+          - pb-16
+          - pr-8
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Previous Clients & Partnerships
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/va.jpeg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/nv.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/a.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/az.png
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - url: /images/cl.jpeg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
