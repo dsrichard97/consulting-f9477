@@ -39,7 +39,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item Two
-        tagline: Andres
+        tagline: 'Andres, Gerry, Phanny'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
