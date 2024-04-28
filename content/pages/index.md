@@ -39,7 +39,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Machine Learning Classification
-        tagline: 'Andres, Gerry, Phanny'
+        tagline: Andres
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
