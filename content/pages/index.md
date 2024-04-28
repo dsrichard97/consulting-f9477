@@ -265,35 +265,6 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Previous Clients & Partnerships
-    images:
-      - altText: Empathy logo
-        type: ImageBlock
-      - url: /images/va.jpeg
-        altText: Wellster logo
-        type: ImageBlock
-      - url: /images/nv.png
-        altText: Vise logo
-        type: ImageBlock
-      - url: /images/a.png
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/az.png
-        altText: Contentful logo
-        type: ImageBlock
-      - altText: Sanity logo
-        type: ImageBlock
-      - url: /images/cl.jpeg
-        altText: Rangle logo
-        type: ImageBlock
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: center
-      subtitle:
-        textAlign: center
-    type: ImageGallerySection
   - title: Divider
     colors: bg-light-fg-dark
     styles:
