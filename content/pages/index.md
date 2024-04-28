@@ -66,8 +66,9 @@ sections:
         title: Meal Inspiration
         tagline: 'Robby, Gabriel, Brian, Noppakan'
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >
+          [Click here for
+          project.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EesPDarOSgVLtVVIzdl5zKQBXpWUEnRvttEmyO99cG4CxQ?e=hv15Kz)
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
