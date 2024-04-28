@@ -64,7 +64,7 @@ sections:
             flexDirection: col
       - type: FeaturedItem
         title: Feature Item One
-        tagline: 'Robby,'
+        tagline: 'Robby, Gabriel, Brian, No'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Stackbit site.
