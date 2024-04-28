@@ -2,57 +2,6 @@
 title: Home
 slug: /
 sections:
-  - type: GenericSection
-    title:
-      text: Unleash your full potential
-      color: text-dark
-      type: TitleBlock
-    subtitle: Data Science & Research Driven
-    text: >
-      At CSULB, our commitment is to deliver impactful results and practical
-      solutions. As statisticians, we dedicate ourselves to continuous growth
-      and adaptation to better serve our community. We uphold core values of
-      integrity, innovation, and collaboration.
-    actions:
-      - label: Get started
-        altText: ''
-        url: >-
-          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-        elementId: ''
-        type: Button
-      - label: About the team
-        altText: ''
-        url: 'https://consulting-f9477.stackbit.app/careers'
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
-    media:
-      url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
-      type: ImageBlock
-    badge:
-      label: CSULB Consultation Program
-      color: text-primary
-      type: Badge
-    elementId: ''
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
