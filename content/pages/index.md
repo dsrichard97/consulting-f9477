@@ -63,7 +63,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item One
+        title: Meal Inspiration
         tagline: 'Robby, Gabriel, Brian, Noppakan'
         subtitle: This is the item subtitle
         text: |
