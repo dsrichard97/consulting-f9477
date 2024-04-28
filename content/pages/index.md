@@ -65,7 +65,7 @@ sections:
       - type: FeaturedItem
         title: Meal Inspiration
         tagline: 'Robby, Gabriel, Brian, Noppakan'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
