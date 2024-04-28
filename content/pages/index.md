@@ -71,7 +71,7 @@ sections:
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
-          altText: Placeholder image
+          altText: Robby
           styles:
             self:
               borderRadius: x-large
