@@ -26,7 +26,7 @@ sections:
         type: Button
       - label: About the team
         altText: ''
-        url: /
+        url: 'https://consulting-f9477.stackbit.app/careers'
         showIcon: true
         icon: arrowRight
         iconPosition: right
