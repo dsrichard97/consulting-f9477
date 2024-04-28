@@ -40,7 +40,7 @@ sections:
       - type: FeaturedItem
         title: Machine Learning Classification
         tagline: Andres
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Stackbit site.
         image:
