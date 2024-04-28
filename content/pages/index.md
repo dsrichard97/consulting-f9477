@@ -70,7 +70,6 @@ sections:
           Learn from the tutorial and build your first awesome Stackbit site.
         image:
           type: ImageBlock
-          url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
           altText: Robby
           styles:
             self:
