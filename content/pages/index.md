@@ -41,8 +41,9 @@ sections:
         title: Machine Learning Classification
         tagline: Andres
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Stackbit site.
+        text: >
+          [Click here for M.L. Project and
+          documentation.](https://okcomputer626.quarto.pub/machine-learning-classification-of-center-back-player-types-in-liga-mx/)
         image:
           type: ImageBlock
           url: /images/abstract-feature2.svg
