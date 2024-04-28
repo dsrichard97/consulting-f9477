@@ -70,7 +70,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
           altText: Placeholder text
           styles:
             self:
