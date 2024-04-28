@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Fertility Rate Project
-        tagline: This is the tagline
+        tagline: 'Sean, Cindy, Kent'
         subtitle: This is the item subtitle
         text: |
           Follow the tutorial to build your first Stackbit site.
