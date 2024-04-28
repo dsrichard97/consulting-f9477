@@ -20,7 +20,7 @@ sections:
           Follow the tutorial to build your first Stackbit site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature1.svg
+          url: /images/fert.jpeg
           altText: Placeholder image
           styles:
             self:
