@@ -46,7 +46,7 @@ sections:
           documentation.](https://okcomputer626.quarto.pub/machine-learning-classification-of-center-back-player-types-in-liga-mx/)
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2024-04-28 at 3.47.22 PM.png
           altText: Placeholder image
           styles:
             self:
