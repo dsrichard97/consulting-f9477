@@ -38,7 +38,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
+        title: Machine Learning Classification
         tagline: 'Andres, Gerry, Phanny'
         subtitle: This is the item subtitle
         text: |
