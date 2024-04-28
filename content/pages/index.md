@@ -15,7 +15,7 @@ sections:
       - type: FeaturedItem
         title: Fertility Rate Project
         tagline: 'Sean, Cindy, Kent'
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: >
           [Click here for
           powerpoint.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EX_YIaD2gfVGgvXpmdeoegsBzbPzB66TuF3KlVPx1fMlog?e=HRi0IA)
