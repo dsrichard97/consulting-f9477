@@ -38,14 +38,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Two
-        tagline: 'Andres, Gerry, Phanny'
-        subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Stackbit site.
+        title: Machine Learning Classification
+        tagline: Andres
+        subtitle: ''
+        text: >
+          [Click here for M.L. Project and
+          documentation.](https://okcomputer626.quarto.pub/machine-learning-classification-of-center-back-player-types-in-liga-mx/)
         image:
           type: ImageBlock
-          url: /images/abstract-feature2.svg
+          url: /images/Screenshot 2024-04-28 at 3.47.22 PM.png
           altText: Placeholder image
           styles:
             self:
@@ -62,15 +63,16 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
-        text: |
-          Learn from the tutorial and build your first awesome Stackbit site.
+        title: Meal Inspiration
+        tagline: 'Robby, Gabriel, Brian, Noppakan'
+        subtitle: ''
+        text: >
+          [Click here for
+          project.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EesPDarOSgVLtVVIzdl5zKQBXpWUEnRvttEmyO99cG4CxQ?e=hv15Kz)
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Placeholder image
+          url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
+          altText: Placeholder text
           styles:
             self:
               borderRadius: x-large
