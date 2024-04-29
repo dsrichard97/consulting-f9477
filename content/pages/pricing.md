@@ -68,7 +68,7 @@ sections:
             textAlign: left
       - type: FeaturedItem
         title: 2x
-        subtitle: The Job Stuff
+        subtitle: Automated workflows
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
