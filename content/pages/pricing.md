@@ -149,7 +149,7 @@ sections:
       - type: FeaturedItem
         title: GRADUATE STUDENT DRIVEN
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: STATISTICAL CONSULTING
         text: >
 
           At our statistical consulting firm, we prioritize clear and effective
