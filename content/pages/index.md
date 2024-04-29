@@ -43,7 +43,7 @@ sections:
         subtitle: ''
         text: >
           [Click here for
-          project](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
+          project.](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-28 at 3.47.22 PM.png
