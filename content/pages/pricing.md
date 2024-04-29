@@ -28,6 +28,46 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: GRADUATE STUDENT DRIVEN
+        tagline: Feature 1
+        subtitle: STATISTICAL CONSULTING
+        text: >
+
+          At our statistical consulting firm, we prioritize clear and effective
+          communication with our clients, ensuring that every step of our
+          methodology is aligned with your business needs. Our approach includes
+          comprehensive guidelines for client-consultant interactions, tailored
+          presentations, and meticulously crafted final technical reports.
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: center
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -141,46 +181,6 @@ sections:
           - pt-16
           - pl-16
           - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
-  - type: CarouselSection
-    items:
-      - type: FeaturedItem
-        title: GRADUATE STUDENT DRIVEN
-        tagline: Feature 1
-        subtitle: STATISTICAL CONSULTING
-        text: >
-
-          At our statistical consulting firm, we prioritize clear and effective
-          communication with our clients, ensuring that every step of our
-          methodology is aligned with your business needs. Our approach includes
-          comprehensive guidelines for client-consultant interactions, tailored
-          presentations, and meticulously crafted final technical reports.
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-    variant: tabs-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
         justifyContent: center
       subtitle:
         textAlign: center
