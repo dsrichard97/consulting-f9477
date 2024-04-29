@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: CSULB STAT CONSULTANTS
+      text: CSULB STAT. CONSULTANTS
       color: text-primary
       styles:
         self:
