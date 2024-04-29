@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: Personnel
+      text: CSULB Statstical Consulting
       color: text-dark
       styles:
         self:
