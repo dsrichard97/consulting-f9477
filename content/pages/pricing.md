@@ -69,10 +69,10 @@ sections:
       - type: FeaturedItem
         title: 2x
         subtitle: Automated workflows
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Automated systems reduce the risk of human error in calculations and
+          data processing, ensuring that the results are reliable and
+          reproducible.
         image:
           type: ImageBlock
           url: /images/icon2.svg
