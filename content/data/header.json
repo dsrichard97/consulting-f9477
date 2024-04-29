@@ -74,7 +74,7 @@
         {
             "label": "Home",
             "altText": "CSULB Statistics",
-            "url": "https://www.csulb.edu/mathematics-statistics",
+            "url": "",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
