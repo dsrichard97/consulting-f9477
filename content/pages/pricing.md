@@ -2,119 +2,197 @@
 title: Pricing
 slug: pricing
 sections:
-  - title:
-      text: Flexible Pricing
+  - type: FeaturedPostsSection
+    title:
+      type: TitleBlock
+      text: CSULB Statstical Consulting
       color: text-dark
       styles:
         self:
           textAlign: center
-      type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
-    plans:
-      - title: Developers
-        price: Free
-        details: No credit card required
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Professional
-        price: $99
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-        image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
-          type: ImageBlock
-        actions:
-          - label: Try for free
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
-      - title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-          type: ImageBlock
-        actions:
-          - label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-            type: Button
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
-        type: PricingPlan
+    posts: []
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: small-list
     colors: bg-light-fg-dark
+    hoverEffect: thin-underline
     styles:
       self:
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+  - type: FeaturedItemsSection
+    title:
+      type: TitleBlock
+      text: Key Benefits
+      color: text-dark
+      styles:
+        self:
+          textAlign: center
+    subtitle: DATA DRIVIEN
+    items:
+      - type: FeaturedItem
+        title: 50k+
+        subtitle: Reports Done
+        text: >
+          We excel in crafting detailed, actionable reports tailored to business
+          contexts, enabling you to make informed decisions that drive success
+          and efficiency in your operations.
+        image:
+          type: ImageBlock
+          url: /images/icon1.svg
+          altText: Lightning bolt symbol on red background
+          elementId: ''
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
+            textAlign: left
+      - type: FeaturedItem
+        title: 2x
+        subtitle: Automated workflows
+        text: >
+          Automated systems reduce the risk of human error in calculations and
+          data processing, ensuring that the results are reliable and
+          reproducible.
+        image:
+          type: ImageBlock
+          url: /images/icon2.svg
+          altText: Featured icon two
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+            textAlign: left
+            justifyContent: center
+      - type: FeaturedItem
+        title: Research
+        subtitle: Thesis
+        text: >
+          We specialize in transforming complex data and research into
+          accessible insights, helping you not only achieve publication but also
+          extend your academic influence.
+        image:
+          type: ImageBlock
+          url: /images/icon3.svg
+          altText: Featured icon three
+          elementId: ''
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    actions:
+      - type: Button
+        label: Get started
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+    badge:
+      type: Badge
+      label: Why us?
+      color: text-primary
+      styles:
+        self:
+          textAlign: center
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-neutral-fg-dark
+    styles:
+      self:
+        padding:
+          - pb-16
+          - pt-16
+          - pl-16
+          - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
-    type: PricingSection
+  - type: ImageGallerySection
+    subtitle: Our customers
+    images:
+      - type: ImageBlock
+        url: /images/a.png
+        altText: Empathy logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/wellster-logo.svg
+        altText: Wellster logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/vise-logo.svg
+        altText: Vise logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/telus-logo.svg
+        altText: Telus logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/contenful-logo.svg
+        altText: Contentful logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/sanity-logo.svg
+        altText: Sanity logo
+        elementId: ''
+      - type: ImageBlock
+        url: /images/rangle-logo.svg
+        altText: Rangle logo
+        elementId: ''
+    elementId: ''
+    motion: static
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        margin:
+          - mt-0
+          - ml-0
+          - mb-0
+          - mr-0
+        padding:
+          - pt-16
+          - pl-16
+          - pb-16
+          - pr-16
+        justifyContent: center
+      subtitle:
+        textAlign: center
 seo:
   metaTitle: Pricing - Demo site
   metaDescription: This is the pricing page built with Netlify Create.
