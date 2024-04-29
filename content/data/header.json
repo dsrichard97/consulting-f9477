@@ -74,14 +74,14 @@
         {
             "label": "Home",
             "altText": "CSULB Statistics",
-            "url": "https://www.csulb.edu/mathematics-statistics",
+            "url": "https://create.netlify.com/studio/65ff94772065cc00be1ec129#/pricing/",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Button"
         }
     ],
-    "variant": "logo-left-primary-nav-centered",
+    "variant": "logo-left-primary-nav-left",
     "colors": "bg-dark-fg-light",
     "type": "Header",
     "styles": {

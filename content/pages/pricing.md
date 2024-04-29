@@ -5,8 +5,8 @@ sections:
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: CSULB Statstical Consulting
-      color: text-dark
+      text: CSULB CONSULTANTS
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -28,6 +28,46 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: GRADUATE STUDENT DRIVEN
+        tagline: Feature 1
+        subtitle: STATISTICAL CONSULTING
+        text: >
+
+          At our statistical consulting firm, we prioritize clear and effective
+          communication with our clients, ensuring that every step of our
+          methodology is aligned with your business needs. Our approach includes
+          comprehensive guidelines for client-consultant interactions, tailored
+          presentations, and meticulously crafted final technical reports.
+        image:
+          type: ImageBlock
+          url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
+          altText: Featured item
+          styles:
+            self:
+              borderRadius: medium
+        actions: []
+        colors: bg-neutralAlt-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-9
+              - pb-9
+              - pl-9
+              - pr-9
+            textAlign: left
+            borderRadius: large
+            flexDirection: row
+            justifyContent: center
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: flex-end
+      subtitle:
+        textAlign: center
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
@@ -39,7 +79,7 @@ sections:
     subtitle: DATA DRIVIEN
     items:
       - type: FeaturedItem
-        title: 50k+
+        title: 10k+
         subtitle: Reports Done
         text: >
           We excel in crafting detailed, actionable reports tailored to business
@@ -47,7 +87,7 @@ sections:
           and efficiency in your operations.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/rp.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
@@ -75,7 +115,7 @@ sections:
           reproducible.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/am.jpeg
           altText: Featured icon two
           elementId: ''
         actions: []
@@ -100,7 +140,7 @@ sections:
           extend your academic influence.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/p1.jpeg
           altText: Featured icon three
           elementId: ''
         actions: []
@@ -152,27 +192,25 @@ sections:
         altText: Empathy logo
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/lbs.png
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/nv.png
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
-        url: /images/telus-logo.svg
+        url: /images/va.jpeg
         altText: Telus logo
         elementId: ''
       - type: ImageBlock
-        url: /images/contenful-logo.svg
+        url: /images/az.png
         altText: Contentful logo
         elementId: ''
       - type: ImageBlock
-        url: /images/sanity-logo.svg
         altText: Sanity logo
         elementId: ''
       - type: ImageBlock
-        url: /images/rangle-logo.svg
         altText: Rangle logo
         elementId: ''
     elementId: ''
