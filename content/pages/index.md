@@ -38,7 +38,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: La Liga
+        title: La Liga Player Recommendation
         tagline: Andres
         subtitle: ''
         text: >
