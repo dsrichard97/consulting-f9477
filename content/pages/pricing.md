@@ -41,10 +41,10 @@ sections:
       - type: FeaturedItem
         title: 50k+
         subtitle: Reports Done
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          We excel in crafting detailed, actionable reports tailored to business
+          contexts, enabling you to make informed decisions that drive success
+          and efficiency in your operations.
         image:
           type: ImageBlock
           url: /images/icon1.svg
