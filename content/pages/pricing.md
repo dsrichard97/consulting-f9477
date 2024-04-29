@@ -147,7 +147,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: STUDENT DRIVEN
+        title: GRADUATE STUDENT DRIVEN
         tagline: Feature 1
         subtitle: Increase your reach
         text: >
