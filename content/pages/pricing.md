@@ -150,10 +150,13 @@ sections:
         title: 'STAT 544:'
         tagline: Feature 1
         subtitle: Increase your reach
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+
+          At our statistical consulting firm, we prioritize clear and effective
+          communication with our clients, ensuring that every step of our
+          methodology is aligned with your business needs. Our approach includes
+          comprehensive guidelines for client-consultant interactions, tailored
+          presentations, and meticulously crafted final technical reports.
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
