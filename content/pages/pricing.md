@@ -100,7 +100,7 @@ sections:
           extend your academic influence.
         image:
           type: ImageBlock
-          url: /images/icon3.svg
+          url: /images/p1.jpeg
           altText: Featured icon three
           elementId: ''
         actions: []
