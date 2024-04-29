@@ -36,7 +36,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: DATA DRIVIEN
     items:
       - type: FeaturedItem
         title: 500k
