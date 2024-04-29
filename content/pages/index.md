@@ -38,7 +38,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
       - type: FeaturedItem
-        title: Machine Learning Classification
+        title: La Liga
         tagline: Andres
         subtitle: ''
         text: >
