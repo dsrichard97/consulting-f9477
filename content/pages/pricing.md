@@ -47,7 +47,7 @@ sections:
           and efficiency in your operations.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/rp.png
           altText: Lightning bolt symbol on red background
           elementId: ''
           styles:
