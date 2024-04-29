@@ -75,7 +75,7 @@ sections:
           reproducible.
         image:
           type: ImageBlock
-          url: /images/icon2.svg
+          url: /images/am.jpeg
           altText: Featured icon two
           elementId: ''
         actions: []
