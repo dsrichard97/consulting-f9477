@@ -39,7 +39,7 @@ sections:
     subtitle: DATA DRIVIEN
     items:
       - type: FeaturedItem
-        title: 50k+
+        title: 10k+
         subtitle: Reports Done
         text: >
           We excel in crafting detailed, actionable reports tailored to business
