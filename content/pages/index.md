@@ -42,8 +42,8 @@ sections:
         tagline: Andres
         subtitle: ''
         text: >
-          [Click here for M.L. Project and
-          documentation.](https://okcomputer626.quarto.pub/machine-learning-classification-of-center-back-player-types-in-liga-mx/)
+          [Click here for
+          project](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-28 at 3.47.22 PM.png
