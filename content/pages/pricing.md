@@ -156,7 +156,7 @@ sections:
           explicabo.
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
           altText: Featured item
           styles:
             self:
