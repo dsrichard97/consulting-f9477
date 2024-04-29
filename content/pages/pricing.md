@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: CSULB Statstical Consulting
-      color: text-primary
+      color: text-neutral
       styles:
         self:
           textAlign: center
