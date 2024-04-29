@@ -147,7 +147,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: 'STAT 544:'
+        title: STUDENT DRIVEN
         tagline: Feature 1
         subtitle: Increase your reach
         text: >
