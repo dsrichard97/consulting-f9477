@@ -61,7 +61,6 @@ colors: bg-light-fg-dark
 styles:
   self:
     flexDirection: col
-author: content/data/person4.json
 ---
 *    SAS (STAT, BASE, MACRO, GRAPH, SQL, IML)
 
