@@ -83,7 +83,7 @@ sections:
             flexDirection: row
         tagline: 'Sean, Kent, Cindy'
       - type: FeaturedItem
-        title: Previous Projects
+        title: Other Projects
         tagline: This is the tagline
         subtitle: Compilation of previous projects
         text: >
