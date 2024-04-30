@@ -95,8 +95,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
+    posts: []
     showThumbnail: true
     showExcerpt: true
     showDate: true
