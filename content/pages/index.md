@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Selected Projects
-      color: text-dark
+      color: text-primary
       styles:
         self:
           textAlign: center
@@ -40,7 +40,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Soccer Analytics WebApp
-        subtitle: Football Aanalytics
+        subtitle: Andres
         text: >
           [R Shiny report showcases a filter and response method that allows
           non-technical users to navigate similar player attributes. Click
@@ -61,7 +61,7 @@ sections:
         tagline: Andres
       - type: FeaturedItem
         title: Fertility Census Report
-        subtitle: Engineering
+        subtitle: 'Sean, Cindy, Kent'
         text: >
           The project was a study using US Census data on a topic of our choice.
           My group decided to investigate fertility rates across the US (the
@@ -83,7 +83,7 @@ sections:
             flexDirection: row
         tagline: 'Sean, Kent, Cindy'
       - type: FeaturedItem
-        title: Previous Projects
+        title: Other Projects
         tagline: This is the tagline
         subtitle: Compilation of previous projects
         text: >
@@ -109,7 +109,7 @@ sections:
             flexDirection: col-reverse
     actions: []
     variant: toggle-list
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
