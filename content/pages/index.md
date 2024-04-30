@@ -57,6 +57,7 @@ sections:
             borderRadius: x-large
             flexDirection: row
             justifyContent: center
+        tagline: Andres
       - type: FeaturedItem
         title: Senior Software Engineer
         subtitle: Engineering
