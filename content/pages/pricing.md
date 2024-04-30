@@ -85,28 +85,6 @@ sections:
           - pt-5
       subtitle:
         textAlign: center
-  - type: FeaturedPostsSection
-    posts: []
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: big-list
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-5
-          - pl-4
-          - pb-5
-          - pr-4
-        justifyContent: flex-end
-        margin:
-          - ml-5
-          - mr-5
   - type: CarouselSection
     items:
       - type: FeaturedItem
