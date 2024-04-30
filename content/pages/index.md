@@ -15,10 +15,16 @@ sections:
       - type: FeaturedItem
         title: Meal Inspiration Report
         subtitle: Market Research
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >+
+          This market research project analyzed survey data on grocery shopping
+          demographics, shopping habits, engagement, needs, and solutions for
+          populations of interest. The analysis identified distinct demographic
+          profiles for the general population (by age groups) and the key
+          segments, including varying levels of engagement and shopping habits.
+          Strategic recommendations focused on tailoring marketing efforts and
+          synthesizing insights from shopper habits and engagement to address
+          unique needs and preferences of the different age groups and segments.
+
         actions: []
         colors: bg-neutral-fg-dark
         styles:
