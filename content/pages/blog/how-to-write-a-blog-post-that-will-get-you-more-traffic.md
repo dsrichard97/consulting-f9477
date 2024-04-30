@@ -9,13 +9,6 @@ excerpt: >-
   research areas across mathematics, statistics, and mathematics education. The
   faculty members are committed to excellence in teaching, research, and
   industry.
-featuredImage:
-  url: /images/csu1.jpeg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
