@@ -4,7 +4,7 @@ slug: careers
 sections:
   - title:
       text: Collaborative Project Support
-      color: text-neutral
+      color: text-primary
       styles:
         self:
           textAlign: center
