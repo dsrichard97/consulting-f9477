@@ -53,7 +53,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: Feature 1
-        subtitle: DEPARTMENT OF STATISTICS CONSULTING
+        subtitle: STATISTICAL CONSULTING
         text: >
           In our statistical consulting, we prioritize clear and effective
           communication with our clients, ensuring that every step of our
