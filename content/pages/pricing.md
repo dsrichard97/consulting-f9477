@@ -27,8 +27,7 @@ sections:
         tagline: Feature 1
         subtitle: DEPARTMENT OF STATISTICS CONSULTING
         text: >
-
-          At our statistical consulting firm, we prioritize clear and effective
+          In our statistical consulting, we prioritize clear and effective
           communication with our clients, ensuring that every step of our
           methodology is aligned with your business needs. Our approach includes
           comprehensive guidelines for client-consultant interactions, tailored
