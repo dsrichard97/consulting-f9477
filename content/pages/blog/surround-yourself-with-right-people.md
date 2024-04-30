@@ -153,6 +153,3 @@ bottomSections:
       subtitle:
         textAlign: center
 ---
-
-
-Graduate Student Focus: We emphasize the methodology of statistical consulting, which encompasses strategies for effective communication between clients and consultants, conducting client presentations, and mastering the essentials of drafting final technical reports.
