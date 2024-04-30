@@ -4,7 +4,6 @@ slug: top-twenty-ways-to-save-time
 date: '2023-03-25'
 excerpt: ''
 featuredImage:
-  url: /images/csu1.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
