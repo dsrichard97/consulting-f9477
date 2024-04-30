@@ -13,31 +13,6 @@ sections:
     subtitle: ''
     items:
       - type: FeaturedItem
-        title: Fertility Rate Project
-        tagline: 'Sean, Cindy, Kent'
-        subtitle: ''
-        text: >
-          [Click here for
-          powerpoint.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EX_YIaD2gfVGgvXpmdeoegsBzbPzB66TuF3KlVPx1fMlog?e=HRi0IA)
-        image:
-          type: ImageBlock
-          url: /images/fert.jpeg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
-      - type: FeaturedItem
         title: La Liga Player Recommendation
         tagline: Andres
         subtitle: ''
