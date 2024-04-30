@@ -84,7 +84,7 @@ sections:
       - type: FeaturedItem
         title: Previous Projects
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Compilation of previous projects
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
