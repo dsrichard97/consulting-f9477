@@ -123,7 +123,7 @@ sections:
         padding:
           - pt-28
           - pl-28
-          - pb-28
+          - pb-48
           - pr-28
         justifyContent: center
     backgroundImage:
