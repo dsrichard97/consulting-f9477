@@ -86,8 +86,9 @@ sections:
         title: Previous Projects
         tagline: This is the tagline
         subtitle: Compilation of previous projects
-        text: |
-          List of all consulting projects. Click here.
+        text: >
+          [List of all consulting projects. Click
+          here.](https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EacMcN_ShCFChB2bZSbfsQABUmo286BNPKFPDhwvZ-kFCQ?e=acxAAn)
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
