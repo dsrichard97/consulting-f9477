@@ -5,7 +5,7 @@ date: '2023-03-25'
 excerpt: >-
   Quo facilis culpa ut illo dolor quo placeat consequatur. A consequatur facilis
   aut voluptas dolores qui aperiam laborum ut ullam consequatur ut quia
-  consequatur cum inventore voluptas sed impedit asperiores!
+  consequatur cum inventore voluptas sed impedit asperiores
 featuredImage:
   url: /images/abstract-feature2.svg
   altText: Thumbnail
