@@ -110,7 +110,7 @@ sections:
       self:
         padding:
           - pt-5
-          - pl-6
+          - pl-4
           - pb-5
           - pr-4
         justifyContent: flex-end
