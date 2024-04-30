@@ -60,6 +60,8 @@ sections:
         justifyContent: flex-start
         margin:
           - mb-0
+        padding:
+          - pt-5
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
