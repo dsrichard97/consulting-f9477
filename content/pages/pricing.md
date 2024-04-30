@@ -25,7 +25,7 @@ sections:
       - type: FeaturedItem
         title: ''
         tagline: Feature 1
-        subtitle: STATISTICAL CONSULTING
+        subtitle: DEPARTMENT OF STATISTICS CONSULTING
         text: >
 
           At our statistical consulting firm, we prioritize clear and effective
