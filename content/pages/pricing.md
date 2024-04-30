@@ -55,7 +55,7 @@ sections:
         tagline: This is the tagline
         subtitle: MATHEMATICS & STATISTICS DEPARTMENT
         text: |
-          Follow the tutorial to build your first Stackbit site.
+          Follow your dreams, innovate with us, and move your research forward.
         image:
           type: ImageBlock
           url: /images/csu1.jpeg
