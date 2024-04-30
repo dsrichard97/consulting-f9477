@@ -124,7 +124,7 @@ sections:
           - pt-28
           - pl-28
           - pb-48
-          - pr-28
+          - pr-40
         justifyContent: center
     backgroundImage:
       type: BackgroundImage
