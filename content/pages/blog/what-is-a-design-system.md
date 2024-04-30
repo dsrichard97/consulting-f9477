@@ -16,6 +16,7 @@ featuredImage:
   styles:
     self:
       borderRadius: medium
+  url: /images/bann.jpeg
 content: >-
   Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non
   efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium
