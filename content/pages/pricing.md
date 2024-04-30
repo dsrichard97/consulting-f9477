@@ -48,29 +48,6 @@ sections:
           - pb-0
           - pr-0
         justifyContent: center
-  - type: FeaturedPostsSection
-    posts:
-      - content/pages/blog/top-twenty-ways-to-save-time.md
-    showThumbnail: true
-    showExcerpt: true
-    showDate: true
-    showAuthor: true
-    actions: []
-    elementId: ''
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    hoverEffect: thin-underline
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-6
-          - pb-16
-          - pr-16
-        justifyContent: flex-end
-        margin:
-          - ml-5
-          - mr-5
   - type: CarouselSection
     items:
       - type: FeaturedItem
@@ -117,6 +94,29 @@ sections:
           - pt-5
       subtitle:
         textAlign: center
+  - type: FeaturedPostsSection
+    posts:
+      - content/pages/blog/top-twenty-ways-to-save-time.md
+    showThumbnail: true
+    showExcerpt: true
+    showDate: true
+    showAuthor: true
+    actions: []
+    elementId: ''
+    variant: three-col-grid
+    colors: bg-light-fg-dark
+    hoverEffect: thin-underline
+    styles:
+      self:
+        padding:
+          - pt-16
+          - pl-6
+          - pb-16
+          - pr-16
+        justifyContent: flex-end
+        margin:
+          - ml-5
+          - mr-5
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
