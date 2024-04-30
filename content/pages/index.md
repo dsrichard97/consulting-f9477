@@ -40,7 +40,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Soccer Analytics WebApp
-        subtitle: Football Aanalytics
+        subtitle: Andres
         text: >
           [R Shiny report showcases a filter and response method that allows
           non-technical users to navigate similar player attributes. Click
