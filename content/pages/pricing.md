@@ -10,6 +10,8 @@ sections:
     styles:
       self:
         justifyContent: flex-end
+        padding:
+          - pb-2
       subtitle:
         textAlign: center
     backgroundImage:
