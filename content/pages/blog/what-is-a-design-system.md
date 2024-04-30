@@ -2,7 +2,7 @@
 type: PostLayout
 title: Graduate Research
 slug: what-is-a-design-system
-date: '2024-04-22'
+date: '2024-04-29'
 excerpt: >-
   Please note that all of our consultants possess Ph.D. qualifications in
   statistics, biostatistics, or related disciplines. Projects assigned to
