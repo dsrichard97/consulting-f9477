@@ -61,7 +61,7 @@ sections:
         tagline: Andres
       - type: FeaturedItem
         title: Fertility Census Report
-        subtitle: Engineering
+        subtitle: 'Sean, Cindy, Kent'
         text: >
           The project was a study using US Census data on a topic of our choice.
           My group decided to investigate fertility rates across the US (the
