@@ -240,7 +240,7 @@ sections:
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Our clients
     images:
       - type: ImageBlock
         url: /images/a.png
