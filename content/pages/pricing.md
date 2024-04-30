@@ -47,7 +47,7 @@ sections:
         padding:
           - pt-0
           - pl-7
-          - pb-7
+          - pb-0
           - pr-7
         justifyContent: center
   - type: CarouselSection
