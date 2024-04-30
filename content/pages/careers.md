@@ -48,14 +48,6 @@ sections:
       backgroundRepeat: no-repeat
       opacity: 100
       url: /images/d1.jpeg
-    media:
-      type: ImageBlock
-      url: /images/t3.jpeg
-      altText: Image alt text placeholder
-      elementId: ''
-      styles:
-        self:
-          borderRadius: medium
 seo:
   metaTitle: Careers - Demo site
   metaDescription: This is the careers page built with Netlify Create.
