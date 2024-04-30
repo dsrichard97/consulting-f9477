@@ -59,7 +59,7 @@ sections:
       self:
         justifyContent: flex-end
         margin:
-          - mb-1
+          - mb-0
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
