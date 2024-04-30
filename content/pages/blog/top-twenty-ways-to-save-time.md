@@ -19,6 +19,7 @@ type: PostLayout
 styles:
   self:
     flexDirection: col
+    textAlign: center
 isFeatured: false
 ---
 
