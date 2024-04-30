@@ -49,13 +49,6 @@ sections:
           - pr-0
         justifyContent: center
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - content/pages/blog/top-twenty-ways-to-save-time.md
     showThumbnail: true
