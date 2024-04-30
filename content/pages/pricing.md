@@ -79,6 +79,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/d1.jpeg
   - type: CarouselSection
     items:
       - type: FeaturedItem
