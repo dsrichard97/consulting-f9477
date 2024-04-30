@@ -54,7 +54,7 @@ bottomSections:
     title:
       type: TitleBlock
       text: PREVIOUS RESEARCH
-      color: text-dark
+      color: text-neutral
       styles:
         self:
           textAlign: center
