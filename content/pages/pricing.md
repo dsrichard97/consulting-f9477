@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - type: CarouselSection
-    subtitle: CSULB MATH AND STATISTICS DEPARTMENT
+    subtitle: ''
     items: []
     variant: dots-nav
     colors: bg-light-fg-dark
