@@ -42,8 +42,9 @@ sections:
         title: Soccer Analytics WebApp
         subtitle: Football Aanalytics
         text: >
-          R Shiny report showcases a filter and response method that allows
-          non-technical users to navigate similar player attributes.
+          [R Shiny report showcases a filter and response method that allows
+          non-technical users to navigate similar player attributes. Click
+          here.](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
         actions: []
         colors: bg-neutral-fg-dark
         styles:
