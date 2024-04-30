@@ -192,7 +192,7 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: Why us?
+      label: ''
       color: text-primary
       styles:
         self:
