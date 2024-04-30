@@ -54,7 +54,8 @@ sections:
         title: STATISTICAL CONSULTING
         tagline: This is the tagline
         subtitle: MATHEMATICS & STATISTICS DEPARTMENT
-        text: ''
+        text: |
+          Innovating research, recommendations, and project deployment.
         image:
           type: ImageBlock
           url: /images/csu1.jpeg
