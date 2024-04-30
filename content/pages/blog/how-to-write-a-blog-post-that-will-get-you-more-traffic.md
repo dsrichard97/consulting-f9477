@@ -62,13 +62,7 @@ styles:
   self:
     flexDirection: col
 ---
-*    SAS (STAT, BASE, MACRO, GRAPH, SQL, IML)
 
-*   R
 
-*   ArcGIS
-
-*   EVIEWS
-
-*   Minitab
+*
 
