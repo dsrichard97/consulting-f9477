@@ -102,7 +102,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: DATA DRIVIEN
+    subtitle: Data Driven
     items:
       - type: FeaturedItem
         title: 10k+
