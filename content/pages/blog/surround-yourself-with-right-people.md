@@ -149,7 +149,7 @@ bottomSections:
           - pl-8
           - pb-16
           - pr-8
-        justifyContent: flex-end
+        justifyContent: flex-start
       subtitle:
         textAlign: center
 ---
