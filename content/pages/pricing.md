@@ -23,7 +23,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: GRADUATE STUDENT DRIVEN
+        title: ''
         tagline: Feature 1
         subtitle: STATISTICAL CONSULTING
         text: >
