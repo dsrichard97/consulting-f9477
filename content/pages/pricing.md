@@ -64,7 +64,7 @@ sections:
             self:
               borderRadius: x-large
         actions: []
-        colors: bg-dark-fg-light
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -213,7 +213,8 @@ sections:
       - type: Button
         label: Get started
         altText: ''
-        url: /
+        url: >-
+          https://docs.google.com/forms/d/e/1FAIpQLSfG3uy5tFItDy0iIR3b3g9244SEI7y99Wn3OND9WzE0tVUErw/viewform?usp=sharing
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -270,7 +271,7 @@ sections:
         elementId: ''
     elementId: ''
     motion: static
-    colors: bg-light-fg-dark
+    colors: bg-neutral-fg-dark
     styles:
       self:
         margin:
