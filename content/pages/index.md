@@ -5,29 +5,28 @@ sections:
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
-      text: Projects
-      color: text-primary
+      text: Selected Projects
+      color: text-dark
       styles:
         self:
           textAlign: center
-    subtitle: ''
+    subtitle: Consulting
     items:
       - type: FeaturedItem
-        title: Fertility Rate Project
-        tagline: 'Sean, Cindy, Kent'
-        subtitle: ''
-        text: >
-          [Click here for
-          powerpoint.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EX_YIaD2gfVGgvXpmdeoegsBzbPzB66TuF3KlVPx1fMlog?e=HRi0IA)
-        image:
-          type: ImageBlock
-          url: /images/fert.jpeg
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
+        title: Meal Inspiration Report
+        subtitle: 'Gabriel, Robby, Brian, Noppakan'
+        text: >+
+          This market research project analyzed survey data on grocery shopping
+          demographics, shopping habits, engagement, needs, and solutions for
+          populations of interest. The analysis identified distinct demographic
+          profiles for the general population (by age groups) and the key
+          segments, including varying levels of engagement and shopping habits.
+          Strategic recommendations focused on tailoring marketing efforts and
+          synthesizing insights from shopper habits and engagement to address
+          unique needs and preferences of the different age groups and segments.
+
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -35,24 +34,44 @@ sections:
               - pl-8
               - pb-8
               - pr-8
+            textAlign: left
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
+            justifyContent: center
       - type: FeaturedItem
-        title: La Liga Player Recommendation
+        title: Soccer Analytics WebApp
+        subtitle: Football Aanalytics
+        text: >
+          [R Shiny report showcases a filter and response method that allows
+          non-technical users to navigate similar player attributes. Click
+          here.](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
+        actions: []
+        colors: bg-neutral-fg-dark
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            textAlign: left
+            borderRadius: x-large
+            flexDirection: row
+            justifyContent: center
         tagline: Andres
-        subtitle: ''
+      - type: FeaturedItem
+        title: Fertility Census Report
+        subtitle: Engineering
         text: >
-          [Click here for
-          project.](https://1gcfy8-andres-gonzalez.shinyapps.io/Liga_MX_Clausura_2024_Recommendation_Tool/)
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2024-04-28 at 3.47.22 PM.png
-          altText: Placeholder image
-          styles:
-            self:
-              borderRadius: x-large
+          The project was a study using US Census data on a topic of our choice.
+          My group decided to investigate fertility rates across the US (the
+          number of births per 1,000 women in a given population). We compared
+          the fertility rates across demographics such as ethnicity, age and
+          education level, and saw how these rates shifted over time. We also
+          included a visual comparing the fertility rates across the US states,
+          with one map showing rates in 2010, and the other in 2021.
         actions: []
-        colors: bg-light-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -61,17 +80,18 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: row
+        tagline: 'Sean, Kent, Cindy'
       - type: FeaturedItem
-        title: Meal Inspiration
-        tagline: 'Robby, Gabriel, Brian, Noppakan'
-        subtitle: ''
+        title: Previous Projects
+        tagline: This is the tagline
+        subtitle: Compilation of previous projects
         text: >
-          [Click here for
-          project.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EesPDarOSgVLtVVIzdl5zKQBXpWUEnRvttEmyO99cG4CxQ?e=hv15Kz)
+          [List of all consulting projects. Click
+          here.](https://csulb-my.sharepoint.com/:x:/g/personal/richard_diazdeleon01_student_csulb_edu/EacMcN_ShCFChB2bZSbfsQABUmo286BNPKFPDhwvZ-kFCQ?e=acxAAn)
         image:
           type: ImageBlock
-          url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
+          url: /images/abstract-feature1.svg
           altText: Placeholder text
           styles:
             self:
@@ -86,17 +106,17 @@ sections:
               - pb-8
               - pr-8
             borderRadius: x-large
-            flexDirection: col
+            flexDirection: col-reverse
     actions: []
-    variant: three-col-grid
-    colors: bg-neutral-fg-dark
+    variant: toggle-list
+    colors: bg-light-fg-dark
     styles:
       self:
         padding:
+          - pb-40
           - pt-16
-          - pl-8
-          - pb-16
-          - pr-8
+          - pl-3
+          - pr-3
         justifyContent: center
       subtitle:
         textAlign: center
