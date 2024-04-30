@@ -39,7 +39,7 @@ sections:
             flexDirection: row
             justifyContent: center
       - type: FeaturedItem
-        title: R Shiny Projects
+        title: Soccer Analytics WebApp
         subtitle: Football Aanalytics
         text: >
           R Shiny report showcases a filter and response method that allows
