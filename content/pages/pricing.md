@@ -3,6 +3,24 @@ title: Pricing
 slug: pricing
 sections:
   - type: CarouselSection
+    subtitle: ''
+    items: []
+    variant: dots-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: flex-end
+      subtitle:
+        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/csu1.jpeg
+  - type: CarouselSection
     items:
       - type: FeaturedItem
         title: GRADUATE STUDENT DRIVEN
@@ -42,24 +60,6 @@ sections:
         justifyContent: flex-end
       subtitle:
         textAlign: center
-  - type: CarouselSection
-    subtitle: ''
-    items: []
-    variant: dots-nav
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        justifyContent: flex-end
-      subtitle:
-        textAlign: center
-    backgroundImage:
-      type: BackgroundImage
-      altText: altText of the image
-      backgroundSize: auto
-      backgroundPosition: center
-      backgroundRepeat: no-repeat
-      opacity: 100
-      url: /images/csu1.jpeg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
