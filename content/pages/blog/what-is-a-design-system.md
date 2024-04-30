@@ -89,5 +89,3 @@ styles:
   self:
     flexDirection: row
 ---
-\<div style="text-align: center">Our Research previous conducted and undertaken by the statistics department.\</div>
-
