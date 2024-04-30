@@ -14,7 +14,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Meal Inspiration Report
-        subtitle: 'Gabriel,'
+        subtitle: 'Gabriel, Robby, Brian, Noppakan'
         text: >+
           This market research project analyzed survey data on grocery shopping
           demographics, shopping habits, engagement, needs, and solutions for
