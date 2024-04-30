@@ -3,7 +3,7 @@ title: Pricing
 slug: pricing
 sections:
   - type: CarouselSection
-    subtitle: This is a subtitl
+    subtitle: CSULB MATH AND STATISTICS DEPARTMENT
     items:
       - type: FeaturedItem
         title: >-
