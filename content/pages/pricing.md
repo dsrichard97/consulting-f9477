@@ -140,10 +140,9 @@ sections:
         title: Graduate Research Lead
         tagline: Feature 1
         subtitle: STAT 544 - Statistical Consulting
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          All projects are driven through the department that get approved and
+          become viable to graduate students.
         image:
           type: ImageBlock
           url: /images/img-placeholder.svg
