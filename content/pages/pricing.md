@@ -29,7 +29,7 @@ sections:
           - pr-16
         justifyContent: center
   - type: CarouselSection
-    subtitle: This is a subtitle
+    subtitle: This is a subtitl
     items:
       - type: FeaturedItem
         title: >-
