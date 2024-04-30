@@ -59,7 +59,7 @@ sections:
             justifyContent: center
         tagline: Andres
       - type: FeaturedItem
-        title: Senior Software Engineer
+        title: ''
         subtitle: Engineering
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
