@@ -74,7 +74,7 @@ sections:
             padding:
               - pt-9
               - pb-5
-              - pl-9
+              - pl-5
               - pr-9
             textAlign: center
             borderRadius: large
