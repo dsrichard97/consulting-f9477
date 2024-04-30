@@ -57,7 +57,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: center
         margin:
           - mb-0
       subtitle:
