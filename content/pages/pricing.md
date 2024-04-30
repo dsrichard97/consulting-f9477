@@ -123,6 +123,7 @@ sections:
         justifyContent: center
         margin:
           - ml-5
+          - mr-5
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
