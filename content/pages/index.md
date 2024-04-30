@@ -6,7 +6,7 @@ sections:
     title:
       type: TitleBlock
       text: Selected Projects
-      color: text-neutral
+      color: text-primary
       styles:
         self:
           textAlign: center
