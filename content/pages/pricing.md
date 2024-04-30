@@ -48,7 +48,7 @@ sections:
           - pt-7
           - pl-16
           - pb-7
-          - pr-16
+          - pr-7
         justifyContent: center
   - type: CarouselSection
     items:
