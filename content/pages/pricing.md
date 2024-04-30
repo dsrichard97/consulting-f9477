@@ -82,6 +82,7 @@ sections:
             justifyContent: center
             margin:
               - mt-0
+            borderColor: border-neutralAlt
     variant: tabs-nav
     colors: bg-light-fg-dark
     styles:
