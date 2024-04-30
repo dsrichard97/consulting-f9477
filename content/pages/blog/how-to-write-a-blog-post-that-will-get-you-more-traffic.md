@@ -1,6 +1,6 @@
 ---
 type: PostLayout
-title: Statistics Faculty
+title: ''
 slug: how-to-write-a-blog-post-that-will-get-you-more-traffic
 date: '2024-03-23'
 excerpt: >-
