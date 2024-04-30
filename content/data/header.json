@@ -17,7 +17,8 @@
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
-            "type": "Link"
+            "type": "Link",
+            "showIcon": true
         },
         {
             "label": "Consulting With Us",
@@ -66,7 +67,7 @@
                     "type": "Link"
                 }
             ],
-            "labelStyle": "secondary",
+            "labelStyle": "primary",
             "type": "SubNav"
         }
     ],
