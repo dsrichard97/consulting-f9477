@@ -78,7 +78,7 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: center
+        justifyContent: flex-end
         margin:
           - mb-0
         padding:
