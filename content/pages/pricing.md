@@ -51,39 +51,6 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: ''
-        tagline: Feature 1
-        subtitle: STATISTICAL CONSULTING
-        text: >
-          In our statistical consulting, we prioritize clear and effective
-          communication with our clients, ensuring that every step of our
-          methodology is aligned with your business needs. Our approach includes
-          comprehensive guidelines for client-consultant interactions, tailored
-          presentations, and meticulously crafted final technical reports.
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
-          altText: Featured item
-          styles:
-            self:
-              borderRadius: medium
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-5
-              - pb-5
-              - pl-5
-              - pr-5
-            textAlign: center
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-            margin:
-              - mt-0
-            borderColor: border-neutralAlt
-      - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
         subtitle: This is the item subtitle
