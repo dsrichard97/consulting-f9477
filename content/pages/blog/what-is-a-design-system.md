@@ -53,7 +53,7 @@ bottomSections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: PREVIOUS RESEARCH
+      text: ''
       color: text-dark
       styles:
         self:
