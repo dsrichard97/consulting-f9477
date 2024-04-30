@@ -11,7 +11,7 @@ sections:
       self:
         justifyContent: flex-end
         padding:
-          - pb-2
+          - pb-0
       subtitle:
         textAlign: center
     backgroundImage:
