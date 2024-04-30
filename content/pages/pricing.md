@@ -5,7 +5,7 @@ sections:
   - type: CarouselSection
     subtitle: CSULB MATH AND STATISTICS DEPARTMENT
     items: []
-    variant: next-prev-nav
+    variant: dots-nav
     colors: bg-light-fg-dark
     styles:
       self:
