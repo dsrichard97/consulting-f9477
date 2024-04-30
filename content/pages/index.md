@@ -41,10 +41,9 @@ sections:
       - type: FeaturedItem
         title: R Shiny Projects
         subtitle: Football Aanalytics
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          R Shiny report showcases a filter and response method that allows
+          non-technical users to navigate similar player attributes.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
