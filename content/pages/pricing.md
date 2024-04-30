@@ -51,7 +51,7 @@ sections:
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: Feature Item One
+        title: STATISTICAL CONSULTING
         tagline: This is the tagline
         subtitle: This is the item subtitle
         text: |
