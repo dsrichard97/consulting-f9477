@@ -10,7 +10,7 @@ excerpt: >-
   faculty members are committed to excellence in teaching, research, and
   industry.
 featuredImage:
-  url: /images/faculty.png
+  url: /images/csu1.jpeg
   altText: Thumbnail
   type: ImageBlock
   styles:
