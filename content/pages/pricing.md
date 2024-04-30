@@ -112,7 +112,7 @@ sections:
           - pt-5
           - pl-6
           - pb-5
-          - pr-16
+          - pr-4
         justifyContent: flex-end
         margin:
           - ml-5
