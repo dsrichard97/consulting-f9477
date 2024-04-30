@@ -11,32 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: ''
-    items:
-      - type: FeaturedItem
-        title: Meal Inspiration
-        tagline: 'Robby, Gabriel, Brian, Noppakan'
-        subtitle: ''
-        text: >
-          [Click here for
-          project.](https://csulb-my.sharepoint.com/:b:/g/personal/richard_diazdeleon01_student_csulb_edu/EesPDarOSgVLtVVIzdl5zKQBXpWUEnRvttEmyO99cG4CxQ?e=hv15Kz)
-        image:
-          type: ImageBlock
-          url: /images/Screenshot 2024-04-28 at 4.21.18 PM.png
-          altText: Placeholder text
-          styles:
-            self:
-              borderRadius: x-large
-        actions: []
-        colors: bg-light-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-8
-              - pl-8
-              - pb-8
-              - pr-8
-            borderRadius: x-large
-            flexDirection: col
+    items: []
     actions: []
     variant: three-col-grid
     colors: bg-neutral-fg-dark
