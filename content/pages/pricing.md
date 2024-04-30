@@ -121,6 +121,8 @@ sections:
           - pb-16
           - pr-16
         justifyContent: center
+        margin:
+          - ml-5
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
