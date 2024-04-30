@@ -53,7 +53,7 @@ sections:
       - type: FeaturedItem
         title: STATISTICAL CONSULTING
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: MATHEMATICS & STATISTICS DEPARTMENT
         text: |
           Follow the tutorial to build your first Stackbit site.
         image:
