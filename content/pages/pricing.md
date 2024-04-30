@@ -108,13 +108,6 @@ sections:
           - ml-5
           - mr-5
   - type: FeaturedPostsSection
-    title:
-      type: TitleBlock
-      text: Featured posts
-      color: text-dark
-      styles:
-        self:
-          textAlign: center
     posts:
       - content/pages/blog/five-tips-for-starting-a-startup.md
       - content/pages/blog/what-is-a-design-system.md
