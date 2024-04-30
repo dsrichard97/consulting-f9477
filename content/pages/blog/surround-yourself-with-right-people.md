@@ -1,5 +1,5 @@
 ---
-title: Statistical Consulting
+title: ''
 slug: surround-yourself-with-right-people
 date: '2024-03-27'
 excerpt: >-
