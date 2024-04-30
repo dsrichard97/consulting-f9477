@@ -56,7 +56,7 @@
     },
     "buttonPrimary": {
         "weight": "medium",
-        "case": "none",
+        "case": "lowercase",
         "letterSpacing": "normal",
         "borderRadius": "DEFAULT",
         "shadow": "none",
