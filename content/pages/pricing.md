@@ -134,6 +134,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
+      url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
