@@ -139,7 +139,7 @@ sections:
       - type: FeaturedItem
         title: Graduate Research Lead
         tagline: Feature 1
-        subtitle: Increase your reach
+        subtitle: STAT 544 - Statistical Consulting
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
