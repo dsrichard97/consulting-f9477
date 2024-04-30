@@ -59,7 +59,7 @@ sections:
       backgroundPosition: center
       backgroundRepeat: no-repeat
       opacity: 100
-      url: /images/d1.jpeg
+      url: /images/csu1.jpeg
   - type: FeaturedItemsSection
     title:
       type: TitleBlock
