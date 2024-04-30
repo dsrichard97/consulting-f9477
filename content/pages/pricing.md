@@ -2,11 +2,31 @@
 title: Pricing
 slug: pricing
 sections:
+  - type: CarouselSection
+    subtitle: ''
+    items: []
+    variant: dots-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: flex-end
+        padding:
+          - pb-0
+      subtitle:
+        textAlign: center
+    backgroundImage:
+      type: BackgroundImage
+      altText: altText of the image
+      backgroundSize: auto
+      backgroundPosition: center
+      backgroundRepeat: no-repeat
+      opacity: 100
+      url: /images/csu1.jpeg
   - type: FeaturedPostsSection
     title:
       type: TitleBlock
-      text: CSULB CONSULTANTS
-      color: text-primary
+      text: ''
+      color: text-dark
       styles:
         self:
           textAlign: center
@@ -17,30 +37,63 @@ sections:
     showAuthor: true
     actions: []
     elementId: ''
-    variant: small-list
+    variant: big-list
     colors: bg-light-fg-dark
     hoverEffect: thin-underline
     styles:
       self:
         padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
+          - pt-0
+          - pl-0
+          - pb-0
+          - pr-0
         justifyContent: center
   - type: CarouselSection
     items:
       - type: FeaturedItem
-        title: GRADUATE STUDENT DRIVEN
+        title: STATISTICAL CONSULTING
+        tagline: This is the tagline
+        subtitle: MATHEMATICS & STATISTICS DEPARTMENT
+        text: |
+          Innovating research, recommendations, and project deployment.
+        image:
+          type: ImageBlock
+          url: /images/csu1.jpeg
+          altText: Placeholder text
+          styles:
+            self:
+              borderRadius: x-large
+        actions: []
+        colors: bg-dark-fg-light
+        styles:
+          self:
+            padding:
+              - pt-8
+              - pl-8
+              - pb-8
+              - pr-8
+            borderRadius: x-large
+            flexDirection: row
+    variant: tabs-nav
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        justifyContent: flex-end
+        margin:
+          - mb-0
+        padding:
+          - pt-5
+      subtitle:
+        textAlign: center
+  - type: CarouselSection
+    items:
+      - type: FeaturedItem
+        title: Graduate Research Lead
         tagline: Feature 1
-        subtitle: STATISTICAL CONSULTING
+        subtitle: STAT 544 - Statistical Consulting
         text: >
-
-          At our statistical consulting firm, we prioritize clear and effective
-          communication with our clients, ensuring that every step of our
-          methodology is aligned with your business needs. Our approach includes
-          comprehensive guidelines for client-consultant interactions, tailored
-          presentations, and meticulously crafted final technical reports.
+          All projects are driven through the department that get approved and
+          become viable to graduate students.
         image:
           type: ImageBlock
           url: /images/Screenshot 2024-04-08 at 10.18.23 PM Small.jpeg
@@ -53,11 +106,11 @@ sections:
         styles:
           self:
             padding:
-              - pt-9
-              - pb-9
+              - pt-1
+              - pb-1
               - pl-9
               - pr-9
-            textAlign: left
+            textAlign: center
             borderRadius: large
             flexDirection: row
             justifyContent: center
@@ -65,7 +118,9 @@ sections:
     colors: bg-light-fg-dark
     styles:
       self:
-        justifyContent: flex-end
+        justifyContent: center
+        padding:
+          - pt-1
       subtitle:
         textAlign: center
   - type: FeaturedItemsSection
@@ -76,7 +131,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: DATA DRIVIEN
+    subtitle: Data Driven
     items:
       - type: FeaturedItem
         title: 10k+
@@ -166,26 +221,26 @@ sections:
         elementId: ''
     badge:
       type: Badge
-      label: Why us?
+      label: ''
       color: text-primary
       styles:
         self:
           textAlign: center
     elementId: ''
-    variant: three-col-grid
+    variant: small-list
     colors: bg-neutral-fg-dark
     styles:
       self:
         padding:
-          - pb-16
-          - pt-16
+          - pb-0
+          - pt-0
           - pl-16
           - pr-16
         justifyContent: center
       subtitle:
         textAlign: center
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: Our clients
     images:
       - type: ImageBlock
         url: /images/a.png

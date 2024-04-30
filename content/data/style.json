@@ -55,10 +55,10 @@
         "type": "ThemeStyleHeading"
     },
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
-        "letterSpacing": "normal",
-        "borderRadius": "DEFAULT",
+        "weight": "medium",
+        "case": "lowercase",
+        "letterSpacing": "tight",
+        "borderRadius": "full",
         "shadow": "none",
         "horizontalPadding": 30,
         "verticalPadding": 12,
