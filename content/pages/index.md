@@ -85,8 +85,12 @@ sections:
         title: Previous Projects
         tagline: This is the tagline
         subtitle: Compilation of previous projects
-        text: |
-          Follow the tutorial to build your first Stackbit site.
+        text: >+
+          **Michelle K. Alencar (Department of Kinesiology)**The efficacy of a
+          telemedicine-based weight loss program with video conference health
+          coaching support
+
+
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
