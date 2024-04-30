@@ -60,7 +60,7 @@
                     "type": "Link"
                 },
                 {
-                    "label": "Projects",
+                    "label": "Selected Projects",
                     "url": "/",
                     "icon": "arrowRight",
                     "iconPosition": "right",
