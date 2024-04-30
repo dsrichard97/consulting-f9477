@@ -85,12 +85,8 @@ sections:
         title: Previous Projects
         tagline: This is the tagline
         subtitle: Compilation of previous projects
-        text: >+
-          **Michelle K. Alencar (Department of Kinesiology)**The efficacy of a
-          telemedicine-based weight loss program with video conference health
-          coaching support
-
-
+        text: |
+          List of all consulting projects. Click here.
         image:
           type: ImageBlock
           url: /images/abstract-feature1.svg
