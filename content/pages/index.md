@@ -61,10 +61,14 @@ sections:
       - type: FeaturedItem
         title: Fertility Census Report
         subtitle: Engineering
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          The project was a study using US Census data on a topic of our choice.
+          My group decided to investigate fertility rates across the US (the
+          number of births per 1,000 women in a given population). We compared
+          the fertility rates across demographics such as ethnicity, age and
+          education level, and saw how these rates shifted over time. We also
+          included a visual comparing the fertility rates across the US states,
+          with one map showing rates in 2010, and the other in 2021.
         actions: []
         colors: bg-neutral-fg-dark
         styles:
