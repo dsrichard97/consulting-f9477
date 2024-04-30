@@ -80,6 +80,7 @@ sections:
               - pr-8
             borderRadius: x-large
             flexDirection: row
+        tagline: 'Sean, Kent, Cindy'
       - type: FeaturedItem
         title: Feature Item One
         tagline: This is the tagline
